@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MenuDropDownItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="a755097f-3f59-4cf7-a769-e09cc2b3e9ae">
+  <ItemId>StampInventoryNewInventoryItem1</ItemId>
+  <NavUrl>InsertStampMaster.aspx?modeid=Insert</NavUrl>
+  <LargeImageUrl />
+  <SmallImageUrl />
+  <ContextMenuId />
+  <Target />
+  <AppliedSecurity />
+</MenuDropDownItem>

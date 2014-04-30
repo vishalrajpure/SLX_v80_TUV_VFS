@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<DeletedItem>
+  <id>845cc771-7857-469d-b8b5-2d05bd4b6c06</id>
+  <url>\Entity Model\Relationships\StampTransaction.StampMaster.845cc7717857469db8b52d05bd4b6c06.relationship.xml</url>
+  <caption>StampTransaction.StampMasters1 1:M StampMaster.StampTransaction1</caption>
+  <extension>.relationship.xml</extension>
+  <modelId>a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28</modelId>
+  <dateDeleted>2013-10-23T22:36:24.8647488Z</dateDeleted>
+  <image>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGOfPtRkwAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAACXBIWXMAAAsRAAALEQF/ZF+RAAABJElEQVQ4T2P4//8/AzG4e9Wr/01LXv4vnf3if9rE5//D25/+96p7TJxmkAUgAxYd+v9/6s6//1tW//xfNO/bf8PUs6QZgHDBs/9hQBe4VNwn3oDl284AHYIAP379+2/qmQxxGja/wcIloGgDd1DJ1lSYAXuO3/i/bOPh/68//UUYgM1vkfXHWYGaA0Ir9/6zCav/MnfNof9//v4Davzz/8aTX/+P3PiOzQUIv4U3XvlnG970zD1tjjXINdOX7QZrQMcMuPzmkT7PjpjohRuA7jffvJViMAPwhRMDLr+5JEz451+4LhpfGgDJ4fSbZ8Y8t7Dq/cAAbPiD6gJEOIENwOdP1+SpfH75qz1xhRNBA2CG40oDRBuAK5yINgBXGiDaAHzhBABkV+mEQ5q7fAAAAABJRU5ErkJggg==</image>
+  <restoreDataType>System.String, mscorlib</restoreDataType>
+  <restoreData>
+    <string>&lt;?xml version="1.0"?&gt;
+&lt;relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="845cc771-7857-469d-b8b5-2d05bd4b6c06" lastModifiedUtc="2013-10-23T22:29:38.8672293Z" parentEntityId="946f874a-2f3b-47fa-a670-ebdb42eaf3fe" childEntityId="10f6bfb3-c6de-4e6a-8547-5bcf47eeecdf"&gt;
+  &lt;extendedMetaData /&gt;
+  &lt;ExtendedPropertiesCollection&gt;
+    &lt;extendee type="Sage.Platform.Orm.Entities.OrmRelationship" /&gt;
+  &lt;/ExtendedPropertiesCollection&gt;
+  &lt;parentProperty id="90cef302-bbc1-4ec1-b329-49b586781924" lastModifiedUtc="2013-10-23T22:29:36.2932247Z" name="StampMasters1" audited="false"&gt;
+    &lt;ExtendedPropertiesCollection&gt;
+      &lt;extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty"&gt;
+        &lt;extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131"&gt;
+          &lt;OrmEntityPropertySDataExtension generate="true" /&gt;
+        &lt;/extender&gt;
+      &lt;/extendee&gt;
+    &lt;/ExtendedPropertiesCollection&gt;
+    &lt;SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7"&gt;
+      &lt;RelationshipDataType /&gt;
+    &lt;/SystemDataType&gt;
+  &lt;/parentProperty&gt;
+  &lt;childProperty id="9038b8b3-8c02-44c5-8364-4b3c97bb84f5" lastModifiedUtc="2013-10-23T22:29:36.2932247Z" name="StampTransaction1" audited="false"&gt;
+    &lt;ExtendedPropertiesCollection&gt;
+      &lt;extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty"&gt;
+        &lt;extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131"&gt;
+          &lt;OrmEntityPropertySDataExtension generate="true" /&gt;
+        &lt;/extender&gt;
+      &lt;/extendee&gt;
+    &lt;/ExtendedPropertiesCollection&gt;
+    &lt;SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7"&gt;
+      &lt;RelationshipDataType /&gt;
+    &lt;/SystemDataType&gt;
+  &lt;/childProperty&gt;
+  &lt;column&gt;
+    &lt;OrmRelationshipColumn id="27454122-beca-402b-a4ec-77e1dd472162" parentPropertyId="d3312310-0226-4415-b896-a0fd2b1d4db9" childPropertyId="c9ec0899-4ee3-454d-b8de-9dd5c04757f3" ordinal="0" /&gt;
+  &lt;/column&gt;
+&lt;/relationship&gt;</string>
+  </restoreData>
+</DeletedItem>

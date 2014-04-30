@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MenuDropDownItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="6528ca69-5347-4603-9181-9be9a9a451e5">
+  <ItemId>mnuNewApeal</ItemId>
+  <NavUrl>InsertAppeal.aspx?modeid=Insert&amp;type=Appeal</NavUrl>
+  <LargeImageUrl />
+  <SmallImageUrl />
+  <ContextMenuId />
+  <Target />
+  <AppliedSecurity />
+</MenuDropDownItem>

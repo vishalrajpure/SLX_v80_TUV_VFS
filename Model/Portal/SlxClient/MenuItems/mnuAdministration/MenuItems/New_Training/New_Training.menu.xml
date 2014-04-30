@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MenuDropDownItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="4b4c471c-ce3e-4c73-8d23-46087f959f4f">
+  <ItemId>New_Training</ItemId>
+  <NavUrl>InsertTraining.aspx?modeid=Insert</NavUrl>
+  <LargeImageUrl>[Localization!Global_Images:Account_Service_Information_32x32]</LargeImageUrl>
+  <SmallImageUrl>[Localization!Global_Images:Account_Service_Information_16x16]</SmallImageUrl>
+  <ContextMenuId />
+  <Target />
+  <AppliedSecurity />
+</MenuDropDownItem>

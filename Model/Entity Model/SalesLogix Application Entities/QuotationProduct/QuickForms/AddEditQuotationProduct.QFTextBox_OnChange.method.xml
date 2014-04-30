@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="OrmOtherMethod" id="e2bf8255-f50e-4ec3-907c-9c8a8933fcfa" lastModifiedUtc="2013-10-31T22:17:32.4142319Z" name="QFTextBox_OnChange" methodType="Other" actionType="None" returnMode="None" isInstance="false" containerName="AddEditQuotationProduct">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmOtherMethod" />
+  </ExtendedPropertiesCollection>
+  <parameter>
+    <OrmEntityMethodParam id="189acf42-4bae-49c6-a8fa-8a39b2fbe17d" paramName="form" sequence="0" paramType="IAddEditQuotationProduct" />
+    <OrmEntityMethodParam id="0960bd99-4956-4fd8-9782-18133f7a6f76" paramName="args" sequence="0" paramType="EventArgs" />
+  </parameter>
+  <preExecuteTargets />
+  <methodTargets />
+  <postExecuteTargets />
+  <postFlushTargets />
+</method>

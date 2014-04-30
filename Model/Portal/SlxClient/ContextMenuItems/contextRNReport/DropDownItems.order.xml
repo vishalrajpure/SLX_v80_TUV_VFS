@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="862be047-4b1f-4c6b-9d96-036559d92da1">navmenuLookup.contextmenu.xml</Item>
+  <Item Id="3b6bddbb-6187-45de-ab80-aaa663794fea">navnewRNReport.contextmenu.xml</Item>
+  <Item Id="0d04215d-47b8-4ea5-9a97-e945b0aa8289">navCreateGroupRNReport.contextmenu.xml</Item>
+</ModelItems>

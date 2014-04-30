@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MenuDropDownItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="1dde0589-b41f-4430-8b1a-45cf2d60055a">
+  <ItemId>mnuGroupApeal</ItemId>
+  <NavUrl>javascript:Sage.Groups.GroupManager.CreateGroup('Complaint');</NavUrl>
+  <LargeImageUrl />
+  <SmallImageUrl />
+  <ContextMenuId />
+  <Target />
+  <AppliedSecurity />
+</MenuDropDownItem>

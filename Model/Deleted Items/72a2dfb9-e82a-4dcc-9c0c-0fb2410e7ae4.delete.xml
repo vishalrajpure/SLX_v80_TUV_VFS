@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<DeletedItem>
+  <id>72a2dfb9-e82a-4dcc-9c0c-0fb2410e7ae4</id>
+  <url>\Entity Model\Relationships\StampItems.SurveyorStampDistributions.72a2dfb9e82a4dcc9c0c0fb2410e7ae4.relationship.xml</url>
+  <caption>StampItems.SurveyorStampDistributions 1:M SurveyorStampDistribution.StampItems</caption>
+  <extension>.relationship.xml</extension>
+  <modelId>a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28</modelId>
+  <dateDeleted>2013-10-14T04:07:02.2848677Z</dateDeleted>
+  <image>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGOfPtRkwAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAACXBIWXMAAAsRAAALEQF/ZF+RAAABJElEQVQ4T2P4//8/AzG4e9Wr/01LXv4vnf3if9rE5//D25/+96p7TJxmkAUgAxYd+v9/6s6//1tW//xfNO/bf8PUs6QZgHDBs/9hQBe4VNwn3oDl284AHYIAP379+2/qmQxxGja/wcIloGgDd1DJ1lSYAXuO3/i/bOPh/68//UUYgM1vkfXHWYGaA0Ir9/6zCav/MnfNof9//v4Davzz/8aTX/+P3PiOzQUIv4U3XvlnG970zD1tjjXINdOX7QZrQMcMuPzmkT7PjpjohRuA7jffvJViMAPwhRMDLr+5JEz451+4LhpfGgDJ4fSbZ8Y8t7Dq/cAAbPiD6gJEOIENwOdP1+SpfH75qz1xhRNBA2CG40oDRBuAK5yINgBXGiDaAHzhBABkV+mEQ5q7fAAAAABJRU5ErkJggg==</image>
+  <restoreDataType>System.String, mscorlib</restoreDataType>
+  <restoreData>
+    <string>&lt;?xml version="1.0"?&gt;
+&lt;relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="72a2dfb9-e82a-4dcc-9c0c-0fb2410e7ae4" lastModifiedUtc="2013-10-14T04:06:19.4003924Z" parentEntityId="8c37f0c8-58c3-41ae-92a5-56b9c3e989c8" childEntityId="26f1bffa-5124-43c5-8cbb-3b09633abbb6"&gt;
+  &lt;extendedMetaData /&gt;
+  &lt;ExtendedPropertiesCollection&gt;
+    &lt;extendee type="Sage.Platform.Orm.Entities.OrmRelationship" /&gt;
+  &lt;/ExtendedPropertiesCollection&gt;
+  &lt;parentProperty id="4d0dc216-42ff-4e67-b193-e4bf648429d2" lastModifiedUtc="2013-10-14T04:06:19.197592Z" name="SurveyorStampDistributions" audited="false"&gt;
+    &lt;ExtendedPropertiesCollection&gt;
+      &lt;extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty"&gt;
+        &lt;extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131"&gt;
+          &lt;OrmEntityPropertySDataExtension generate="true" /&gt;
+        &lt;/extender&gt;
+      &lt;/extendee&gt;
+    &lt;/ExtendedPropertiesCollection&gt;
+    &lt;SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7"&gt;
+      &lt;RelationshipDataType /&gt;
+    &lt;/SystemDataType&gt;
+  &lt;/parentProperty&gt;
+  &lt;childProperty id="48b2c263-f292-4a20-b547-0118b606a505" lastModifiedUtc="2013-10-14T04:06:18.9479916Z" name="StampItems" audited="false"&gt;
+    &lt;ExtendedPropertiesCollection&gt;
+      &lt;extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty"&gt;
+        &lt;extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131"&gt;
+          &lt;OrmEntityPropertySDataExtension generate="true" /&gt;
+        &lt;/extender&gt;
+      &lt;/extendee&gt;
+    &lt;/ExtendedPropertiesCollection&gt;
+    &lt;SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7"&gt;
+      &lt;RelationshipDataType /&gt;
+    &lt;/SystemDataType&gt;
+  &lt;/childProperty&gt;
+  &lt;column&gt;
+    &lt;OrmRelationshipColumn id="bace2549-1b4f-476f-a9eb-daf7ea2605a4" parentPropertyId="82e055ee-c352-4940-bc10-723e02677cfb" childPropertyId="ae00c738-6c03-4d39-9213-e0d20ed24ce0" ordinal="0" /&gt;
+  &lt;/column&gt;
+&lt;/relationship&gt;</string>
+  </restoreData>
+</DeletedItem>

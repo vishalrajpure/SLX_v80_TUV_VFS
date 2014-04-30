@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<DeletedItem>
+  <id>b3260c9c-afd1-4f60-8c48-d352a9e5a564</id>
+  <url>\Entity Model\Relationships\VisitReport.RNVisitReport.b3260c9cafd14f608c48d352a9e5a564.relationship.xml</url>
+  <caption>VisitReport.RNVisitReports 1:M RNVisitReport.VisitReport</caption>
+  <extension>.relationship.xml</extension>
+  <modelId>a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28</modelId>
+  <dateDeleted>2013-12-20T01:41:09.2125219Z</dateDeleted>
+  <image>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGOfPtRkwAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAACXBIWXMAAAsRAAALEQF/ZF+RAAABMUlEQVQ4T2P4//8/Ubh71av/TUte/i+d/eJ/2sTn/8Pbn/73qnuMXTE2DDJg0aH//6fu/Pu/ZfXP/0Xzvv03TD2LXTE2jOqCZ//DgC5wqbiPXTE2vHzbGSCFAD9+/ftv6pmM229AANYYULSBO6hkayrMgD3Hb/xftvHw/9ef/iIMwOa3yPrjrEDNAaGVe//ZhNV/mbvm0P8/f/8BNf75f+PJr/9HbnzH5gKE38Ibr/yzDW965p42xxrkkunLdoM1oGOcfvNIn2cH5GKEBTqGG4DuN9+8lWIwRfjCiQGX31wSJvzzL1wXDTMAWziBDcDlN8+MeW5h1fuBAdjwB1c4gQ0AEbiwa/JUPr/81Z64wgkI8BsAw7jCCSSHVQM6xhVOIDmsGtAxrnACyWHVQDz+zwAAZFfphPYFagQAAAAASUVORK5CYII=</image>
+  <restoreDataType>System.String, mscorlib</restoreDataType>
+  <restoreData>
+    <string>&lt;?xml version="1.0"?&gt;
+&lt;relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="b3260c9c-afd1-4f60-8c48-d352a9e5a564" lastModifiedUtc="2013-12-19T23:07:07.4744011Z" parentEntityId="94694621-906d-487e-a7d5-289ce7416007" childEntityId="bae39c2c-07a9-4f08-8a3b-7e33907485f4"&gt;
+  &lt;extendedMetaData /&gt;
+  &lt;ExtendedPropertiesCollection&gt;
+    &lt;extendee type="Sage.Platform.Orm.Entities.OrmRelationship" /&gt;
+  &lt;/ExtendedPropertiesCollection&gt;
+  &lt;parentProperty id="c2219669-cebf-4f62-8f6f-e6fb1a861fc1" lastModifiedUtc="2013-12-19T23:07:04.5242323Z" name="RNVisitReports" audited="false"&gt;
+    &lt;ExtendedPropertiesCollection&gt;
+      &lt;extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty"&gt;
+        &lt;extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131"&gt;
+          &lt;OrmEntityPropertySDataExtension generate="true" /&gt;
+        &lt;/extender&gt;
+      &lt;/extendee&gt;
+    &lt;/ExtendedPropertiesCollection&gt;
+    &lt;SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7"&gt;
+      &lt;RelationshipDataType /&gt;
+    &lt;/SystemDataType&gt;
+  &lt;/parentProperty&gt;
+  &lt;childProperty id="1ed17f90-8a96-4d8f-8c38-85385235af3f" lastModifiedUtc="2013-12-19T23:07:04.5272325Z" name="VisitReport" audited="false"&gt;
+    &lt;ExtendedPropertiesCollection&gt;
+      &lt;extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty"&gt;
+        &lt;extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131"&gt;
+          &lt;OrmEntityPropertySDataExtension generate="true" /&gt;
+        &lt;/extender&gt;
+      &lt;/extendee&gt;
+    &lt;/ExtendedPropertiesCollection&gt;
+    &lt;SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7"&gt;
+      &lt;RelationshipDataType /&gt;
+    &lt;/SystemDataType&gt;
+  &lt;/childProperty&gt;
+  &lt;column&gt;
+    &lt;OrmRelationshipColumn id="e2ee3910-3e58-409f-9e9c-98f47ca4ef1b" parentPropertyId="15ece9a2-1104-49f1-8e33-3431dcd1c01d" childPropertyId="5c9831b0-aaba-4659-9827-53954559de9f" ordinal="0" /&gt;
+  &lt;/column&gt;
+&lt;/relationship&gt;</string>
+  </restoreData>
+</DeletedItem>

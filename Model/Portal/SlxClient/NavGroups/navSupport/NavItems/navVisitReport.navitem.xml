@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<NavigationItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="85428a8e-ce1a-404a-99f5-1a724bfb46a0">
+  <ItemId>navVisitReport</ItemId>
+  <NavUrl>VisitReport.aspx</NavUrl>
+  <LargeImageUrl />
+  <SmallImageUrl />
+  <ContextMenuId>contextVisitReport</ContextMenuId>
+  <Target />
+  <AppliedSecurity />
+</NavigationItem>

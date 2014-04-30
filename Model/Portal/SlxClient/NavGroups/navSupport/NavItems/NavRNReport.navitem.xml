@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<NavigationItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="bf0d48fc-daed-4165-857a-3f878600fb9a">
+  <ItemId>NavRNReport</ItemId>
+  <NavUrl>RNReport.aspx</NavUrl>
+  <LargeImageUrl />
+  <SmallImageUrl>[Localization!Global_Images:Reports_24x24]</SmallImageUrl>
+  <ContextMenuId>contextRNReport</ContextMenuId>
+  <Target />
+  <AppliedSecurity />
+</NavigationItem>

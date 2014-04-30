@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="f53b48a4-0aee-4eb5-bc01-154d345b4dad">InsertCalls.smartpart.xml</Item>
+  <Item Id="9aec1802-6184-4ced-8fe1-bfbf09252068">CallsComments.smartpart.xml</Item>
+  <Item Id="18fb0e1b-0bde-4fcb-a81e-dbf35d9f99f8">SendTicketEmail.smartpart.xml</Item>
+  <Item Id="47a07389-2110-4f34-a201-ce9f86b85eeb">AccountServiceInfo.smartpart.xml</Item>
+  <Item Id="6b7f1e22-6eb2-4a7f-9964-b3bcfe9fcc7c">SpeedSearch.smartpart.xml</Item>
+</ModelItems>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MenuDropDownItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="9d965454-c232-4741-b57a-63656e03e5a3">
+  <ItemId>New_Surveyor</ItemId>
+  <NavUrl>InsertSurveyor.aspx?modeid=Insert</NavUrl>
+  <LargeImageUrl>[Localization!Global_Images:campaigns_navbar_32x32]</LargeImageUrl>
+  <SmallImageUrl>[Localization!Global_Images:campaigns_navbar_24x24]</SmallImageUrl>
+  <ContextMenuId />
+  <Target />
+  <AppliedSecurity />
+</MenuDropDownItem>

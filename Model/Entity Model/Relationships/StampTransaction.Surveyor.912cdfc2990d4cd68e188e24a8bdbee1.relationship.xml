@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="912cdfc2-990d-4cd6-8e18-8e24a8bdbee1" lastModifiedUtc="2013-10-23T22:17:55.6545823Z" parentEntityId="946f874a-2f3b-47fa-a670-ebdb42eaf3fe" childEntityId="263c74af-dcdb-42d6-b717-71db7000854a">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmRelationship" />
+  </ExtendedPropertiesCollection>
+  <parentProperty id="c4d95e25-30fd-4583-b1e9-e70b475e9fde" lastModifiedUtc="2013-10-23T22:17:51.7379754Z" name="Surveyors" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </parentProperty>
+  <childProperty id="da6985aa-4bf1-4c28-ba17-95c400a8d822" lastModifiedUtc="2013-10-23T22:18:43.2124663Z" name="StampTransaction" audited="false" include="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </childProperty>
+  <column>
+    <OrmRelationshipColumn id="3c4b9cc0-85b1-4344-9173-31bfb222d82a" parentPropertyId="b7031e6a-2c1e-4ebb-a99d-841bfb2a7319" childPropertyId="052ae087-11ff-4653-941d-076cc9ba8b95" ordinal="0" />
+  </column>
+</relationship>

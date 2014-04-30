@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="5c23118c-dcc4-488f-aef8-ba833a76c4f9" lastModifiedUtc="2013-12-19T00:52:05.5304414Z" parentEntityId="94694621-906d-487e-a7d5-289ce7416007" childEntityId="cefbf702-459c-436e-ade1-028dd50a3338">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmRelationship" />
+  </ExtendedPropertiesCollection>
+  <parentProperty id="e968094f-9f9b-4706-9119-145d29744bee" lastModifiedUtc="2013-12-19T00:52:04.5663862Z" name="VisitReportDocumentReferences" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </parentProperty>
+  <childProperty id="488cbd51-139a-4db2-8139-33b8935622f6" lastModifiedUtc="2013-12-19T00:52:04.5713865Z" name="VisitReport" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </childProperty>
+  <column>
+    <OrmRelationshipColumn id="3ed9e2e7-addb-4511-bb47-d9c8ebf10d6c" parentPropertyId="15ece9a2-1104-49f1-8e33-3431dcd1c01d" childPropertyId="2b2c01f8-d5ef-4dac-b141-537d89722964" ordinal="0" />
+  </column>
+</relationship>

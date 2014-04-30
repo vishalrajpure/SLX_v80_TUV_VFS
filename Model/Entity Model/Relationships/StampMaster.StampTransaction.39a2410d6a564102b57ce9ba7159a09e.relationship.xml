@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="39a2410d-6a56-4102-b57c-e9ba7159a09e" lastModifiedUtc="2013-10-19T01:15:30.0518523Z" parentEntityId="10f6bfb3-c6de-4e6a-8547-5bcf47eeecdf" childEntityId="946f874a-2f3b-47fa-a670-ebdb42eaf3fe">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmRelationship" />
+  </ExtendedPropertiesCollection>
+  <parentProperty id="5b71f78f-ef0c-4bfe-adb6-f8035f1e057f" lastModifiedUtc="2013-10-19T01:15:27.8210484Z" name="StampTransactions" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </parentProperty>
+  <childProperty id="b2dab97a-bae9-43a1-be92-47ac5d879f8e" lastModifiedUtc="2013-10-19T01:15:27.8210484Z" name="StampMaster" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </childProperty>
+  <column>
+    <OrmRelationshipColumn id="708e01f3-091a-4783-84cd-cb8aa032a11f" parentPropertyId="c9ec0899-4ee3-454d-b8de-9dd5c04757f3" childPropertyId="d3312310-0226-4415-b896-a0fd2b1d4db9" ordinal="0" />
+  </column>
+</relationship>

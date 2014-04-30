@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="77355767-a492-429d-8ee9-1af7f86c69f6">LiveGroupViewer.smartpart.xml</Item>
+  <Item Id="80d23e1d-3bf7-4210-9daf-ff9d3a22e1f0">Training.smartpart.xml</Item>
+  <Item Id="def66857-1c43-405b-aca3-ca660df22e81">TrainingDetail.smartpart.xml</Item>
+  <Item Id="efefe2e5-62d7-4b38-953d-6091d4da3682">TrainingWorkCategory.smartpart.xml</Item>
+  <Item Id="11261bc6-babc-45ea-abf0-4c2b73c206ab">AddEditTrainingDetail.smartpart.xml</Item>
+  <Item Id="4afd1596-e8cd-4f08-80fd-90ad65bec872">AddEditTrainingWorkCategory.smartpart.xml</Item>
+  <Item Id="c16c8248-832d-4594-a1ca-6bd37911688f">AttachmentList.smartpart.xml</Item>
+  <Item Id="604b0bb6-544b-4c19-94f3-3a3c1a104f35">TrainingCompetency.smartpart.xml</Item>
+  <Item Id="6a433c93-8cf0-4981-bfec-cfb1ecb6390a">AddEditTrainingCompetency.smartpart.xml</Item>
+</ModelItems>

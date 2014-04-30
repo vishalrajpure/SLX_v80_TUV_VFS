@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="OrmOtherMethod" id="4b17a2ee-07e1-496e-b9c0-b7d41d541fc1" lastModifiedUtc="2013-12-20T07:54:10.1523748Z" name="chkCompetencyCheck_OnChange" methodType="Other" actionType="None" returnMode="None" isInstance="false" containerName="CallsDetails">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmOtherMethod" />
+  </ExtendedPropertiesCollection>
+  <parameter>
+    <OrmEntityMethodParam id="18fadd67-979c-4276-86f5-afc7fd75e267" paramName="form" sequence="0" paramType="ICallsDetails" />
+    <OrmEntityMethodParam id="930df917-f9f2-46fd-a7a8-ed7231afaaf7" paramName="args" sequence="0" paramType="EventArgs" />
+  </parameter>
+  <preExecuteTargets />
+  <methodTargets />
+  <postExecuteTargets />
+  <postFlushTargets />
+</method>

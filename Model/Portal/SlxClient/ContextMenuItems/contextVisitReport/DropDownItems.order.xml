@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="079edd59-3c7f-4be2-882a-4648353ffa6e">menuItemLookupVisitReport.contextmenu.xml</Item>
+  <Item Id="26cb55aa-dc66-4f8d-817a-b620ec0a4969">navNewVisitReport.contextmenu.xml</Item>
+  <Item Id="4aefafe3-49c3-4edc-ab0f-32a3f0eafdc4">menuItemCreateNewGroup.contextmenu.xml</Item>
+</ModelItems>

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="26e7e319-6ad5-4fe3-904f-5d66523034ba">StampDistributionsItem1Id.navitem.xml</Item>
+  <Item Id="2db07930-b08a-4856-b1f8-2ac31dfbc681">StampInventoryItem1Id.navitem.xml</Item>
+</ModelItems>

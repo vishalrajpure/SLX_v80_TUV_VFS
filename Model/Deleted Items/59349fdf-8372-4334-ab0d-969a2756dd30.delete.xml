@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<DeletedItem>
+  <id>59349fdf-8372-4334-ab0d-969a2756dd30</id>
+  <url>\Entity Model\Relationships\Contract.IRNReport.59349fdf83724334ab0d969a2756dd30.relationship.xml</url>
+  <caption>Sub Job.IRNReports 1:M IRNReport.Contract</caption>
+  <extension>.relationship.xml</extension>
+  <modelId>a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28</modelId>
+  <dateDeleted>2013-12-17T23:44:25.2679602Z</dateDeleted>
+  <image>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGOfPtRkwAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAACXBIWXMAAAsRAAALEQF/ZF+RAAABMUlEQVQ4T2P4//8/Ubh71av/TUte/i+d/eJ/2sTn/8Pbn/73qnuMXTE2DDJg0aH//6fu/Pu/ZfXP/0Xzvv03TD2LXTE2jOqCZ//DgC5wqbiPXTE2vHzbGSCFAD9+/ftv6pmM229AANYYULSBO6hkayrMgD3Hb/xftvHw/9ef/iIMwOa3yPrjrEDNAaGVe//ZhNV/mbvm0P8/f/8BNf75f+PJr/9HbnzH5gKE38Ibr/yzDW965p42xxrkkunLdoM1oGOcfvNIn2cH5GKEBTqGG4DuN9+8lWIwRfjCiQGX31wSJvzzL1wXDTMAWziBDcDlN8+MeW5h1fuBAdjwB1c4gQ0AEbiwa/JUPr/81Z64wgkI8BsAw7jCCSSHVQM6xhVOIDmsGtAxrnACyWHVQDz+zwAAZFfphPYFagQAAAAASUVORK5CYII=</image>
+  <restoreDataType>System.String, mscorlib</restoreDataType>
+  <restoreData>
+    <string>&lt;?xml version="1.0"?&gt;
+&lt;relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="59349fdf-8372-4334-ab0d-969a2756dd30" lastModifiedUtc="2013-12-13T18:33:20.5063561Z" parentEntityId="3521b9b3-7701-4714-b257-197697f94f85" childEntityId="7dbbfa4c-23a2-4525-bbbf-a9e56f376f18"&gt;
+  &lt;extendedMetaData /&gt;
+  &lt;ExtendedPropertiesCollection&gt;
+    &lt;extendee type="Sage.Platform.Orm.Entities.OrmRelationship" /&gt;
+  &lt;/ExtendedPropertiesCollection&gt;
+  &lt;parentProperty id="62dd36a5-2c83-41b8-b45f-a685ab7aaac3" lastModifiedUtc="2013-12-17T19:34:53.9093848Z" name="IRNReports" audited="false"&gt;
+    &lt;ExtendedPropertiesCollection&gt;
+      &lt;extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty"&gt;
+        &lt;extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131"&gt;
+          &lt;OrmEntityPropertySDataExtension generate="true" /&gt;
+        &lt;/extender&gt;
+      &lt;/extendee&gt;
+    &lt;/ExtendedPropertiesCollection&gt;
+    &lt;SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7"&gt;
+      &lt;RelationshipDataType /&gt;
+    &lt;/SystemDataType&gt;
+  &lt;/parentProperty&gt;
+  &lt;childProperty id="6421c161-af1b-42b0-854d-5df9e5f67b0e" lastModifiedUtc="2013-12-17T19:34:53.9093848Z" name="Contract" audited="false"&gt;
+    &lt;ExtendedPropertiesCollection&gt;
+      &lt;extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty"&gt;
+        &lt;extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131"&gt;
+          &lt;OrmEntityPropertySDataExtension generate="true" /&gt;
+        &lt;/extender&gt;
+      &lt;/extendee&gt;
+    &lt;/ExtendedPropertiesCollection&gt;
+    &lt;SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7"&gt;
+      &lt;RelationshipDataType /&gt;
+    &lt;/SystemDataType&gt;
+  &lt;/childProperty&gt;
+  &lt;column&gt;
+    &lt;OrmRelationshipColumn id="4531941a-fe84-45cb-b8a7-8676bbc627b5" parentPropertyId="f4eec6b3-71fb-4a4f-a8e1-301cd708403d" childPropertyId="29acd7b2-516e-444c-9aac-babcff564db7" ordinal="0" /&gt;
+  &lt;/column&gt;
+&lt;/relationship&gt;</string>
+  </restoreData>
+</DeletedItem>

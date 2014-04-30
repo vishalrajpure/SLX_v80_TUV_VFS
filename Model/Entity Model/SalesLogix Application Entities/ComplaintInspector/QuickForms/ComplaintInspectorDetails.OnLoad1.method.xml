@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="OrmOtherMethod" id="cf58ef00-b8e0-4825-851f-c2d6bfc84bde" lastModifiedUtc="2013-12-20T11:41:28.0994208Z" name="OnLoad1" methodType="Other" actionType="None" returnMode="None" isInstance="false" containerName="ComplaintInspectorDetails">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmOtherMethod" />
+  </ExtendedPropertiesCollection>
+  <parameter>
+    <OrmEntityMethodParam id="b3463bd6-be24-400b-9d49-3ba09dcc2b5b" paramName="form" sequence="0" paramType="IComplaintInspectorDetails" />
+    <OrmEntityMethodParam id="c67266c0-fbb4-42b6-b9f9-63fecb7550f8" paramName="args" sequence="0" paramType="EventArgs" />
+  </parameter>
+  <preExecuteTargets />
+  <methodTargets />
+  <postExecuteTargets />
+  <postFlushTargets />
+</method>

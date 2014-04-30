@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<SmartPartMapping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="f25ad6e7-df58-43d3-9283-5bbdb6f64bd9">
+  <SmartPartId>ComplaintInspectors</SmartPartId>
+  <ReferencedModelId>b2741b79-02a2-4f4c-81cd-c204f82cf41c</ReferencedModelId>
+  <SmartPart>\Entity Model\SalesLogix Application Entities\Complaint\QuickForms\ComplaintInspectors.main.quickform.xml</SmartPart>
+  <TargetWorkspace>TabControl</TargetWorkspace>
+  <ShowInMode>Detail</ShowInMode>
+  <Properties />
+  <AllowRoles />
+</SmartPartMapping>

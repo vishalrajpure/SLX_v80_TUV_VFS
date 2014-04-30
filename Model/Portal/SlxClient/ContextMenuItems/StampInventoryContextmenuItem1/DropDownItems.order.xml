@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="5eccf13f-9dbd-4cae-a821-afc377554e74">StampInventoryItem1.contextmenu.xml</Item>
+  <Item Id="a755097f-3f59-4cf7-a769-e09cc2b3e9ae">StampInventoryNewInventoryItem1.contextmenu.xml</Item>
+  <Item Id="48558d16-a1dd-43dd-9446-409e47c0f600">StampInventoryNewGrpItem1.contextmenu.xml</Item>
+</ModelItems>

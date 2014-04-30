@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<DeletedItem>
+  <id>c3bb3ce7-9d9e-4c52-8a94-c69a0598447f</id>
+  <url>\Entity Model\Relationships\SalesOrder.Ticket.c3bb3ce79d9e4c528a94c69a0598447f.relationship.xml</url>
+  <caption>Sales Order.Tickets 1:M Ticket.SalesOrder</caption>
+  <extension>.relationship.xml</extension>
+  <modelId>a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28</modelId>
+  <dateDeleted>2013-11-14T19:41:46.3537859Z</dateDeleted>
+  <image>iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGOfPtRkwAAACBjSFJNAAB6JQAAgIMAAPn/AACA6QAAdTAAAOpgAAA6mAAAF2+SX8VGAAAACXBIWXMAAAsRAAALEQF/ZF+RAAABMUlEQVQ4T2P4//8/Ubh71av/TUte/i+d/eJ/2sTn/8Pbn/73qnuMXTE2DDJg0aH//6fu/Pu/ZfXP/0Xzvv03TD2LXTE2jOqCZ//DgC5wqbiPXTE2vHzbGSCFAD9+/ftv6pmM229AANYYULSBO6hkayrMgD3Hb/xftvHw/9ef/iIMwOa3yPrjrEDNAaGVe//ZhNV/mbvm0P8/f/8BNf75f+PJr/9HbnzH5gKE38Ibr/yzDW965p42xxrkkunLdoM1oGOcfvNIn2cH5GKEBTqGG4DuN9+8lWIwRfjCiQGX31wSJvzzL1wXDTMAWziBDcDlN8+MeW5h1fuBAdjwB1c4gQ0AEbiwa/JUPr/81Z64wgkI8BsAw7jCCSSHVQM6xhVOIDmsGtAxrnACyWHVQDz+zwAAZFfphPYFagQAAAAASUVORK5CYII=</image>
+  <restoreDataType>System.String, mscorlib</restoreDataType>
+  <restoreData>
+    <string>&lt;?xml version="1.0"?&gt;
+&lt;relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="c3bb3ce7-9d9e-4c52-8a94-c69a0598447f" lastModifiedUtc="2013-11-13T22:18:09.9143098Z" parentEntityId="9b47425f-3b70-4f38-a4cf-574c64d46086" childEntityId="e7a70408-03cb-4667-890b-39de33fb739b"&gt;
+  &lt;extendedMetaData /&gt;
+  &lt;ExtendedPropertiesCollection&gt;
+    &lt;extendee type="Sage.Platform.Orm.Entities.OrmRelationship" /&gt;
+  &lt;/ExtendedPropertiesCollection&gt;
+  &lt;parentProperty id="b75d5b08-6386-470d-b0f2-ccb578240299" lastModifiedUtc="2013-11-13T22:18:05.917689Z" name="Tickets" audited="false"&gt;
+    &lt;ExtendedPropertiesCollection&gt;
+      &lt;extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty"&gt;
+        &lt;extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131"&gt;
+          &lt;OrmEntityPropertySDataExtension generate="true" /&gt;
+        &lt;/extender&gt;
+      &lt;/extendee&gt;
+    &lt;/ExtendedPropertiesCollection&gt;
+    &lt;SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7"&gt;
+      &lt;RelationshipDataType /&gt;
+    &lt;/SystemDataType&gt;
+  &lt;/parentProperty&gt;
+  &lt;childProperty id="3f4e0aed-31b9-4235-a11f-d1b7d4e60910" lastModifiedUtc="2013-11-13T22:18:05.9206892Z" name="SalesOrder" audited="false"&gt;
+    &lt;ExtendedPropertiesCollection&gt;
+      &lt;extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty"&gt;
+        &lt;extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131"&gt;
+          &lt;OrmEntityPropertySDataExtension generate="true" /&gt;
+        &lt;/extender&gt;
+      &lt;/extendee&gt;
+    &lt;/ExtendedPropertiesCollection&gt;
+    &lt;SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7"&gt;
+      &lt;RelationshipDataType /&gt;
+    &lt;/SystemDataType&gt;
+  &lt;/childProperty&gt;
+  &lt;column&gt;
+    &lt;OrmRelationshipColumn id="0d5fe6fb-15fe-4d5b-bbf0-3a541c55fb1c" parentPropertyId="17935caf-63d3-493c-a723-467cd86393d3" childPropertyId="f8c895f4-6e59-468c-adcd-7f2bdfc40e71" ordinal="0" /&gt;
+  &lt;/column&gt;
+&lt;/relationship&gt;</string>
+  </restoreData>
+</DeletedItem>

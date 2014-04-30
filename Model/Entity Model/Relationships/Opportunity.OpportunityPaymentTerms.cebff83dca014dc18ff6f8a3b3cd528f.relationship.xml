@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="cebff83d-ca01-4dc1-8ff6-f8a3b3cd528f" lastModifiedUtc="2013-10-23T19:57:40.3533Z" parentEntityId="3172551b-f476-45ea-98de-2bb04ddba687" childEntityId="7bb45a95-9943-40ef-89ac-be6cafa6316a">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmRelationship" />
+  </ExtendedPropertiesCollection>
+  <parentProperty id="6f6c636c-a2e0-482f-9ba8-c77b5bb45d59" lastModifiedUtc="2013-10-23T19:57:40.1036996Z" name="OpportunityPaymentTermss" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </parentProperty>
+  <childProperty id="63743fff-0f4c-4342-b721-38fa54c295d9" lastModifiedUtc="2013-10-23T19:57:40.1036996Z" name="Opportunity" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </childProperty>
+  <column>
+    <OrmRelationshipColumn id="70c82350-f3ed-44c7-ad84-574a8cbecacd" parentPropertyId="3e3db591-f7de-435b-a421-ef2c5e72aa2b" childPropertyId="6c555c88-f5f9-478b-953b-b2fe5649b62e" ordinal="0" />
+  </column>
+</relationship>

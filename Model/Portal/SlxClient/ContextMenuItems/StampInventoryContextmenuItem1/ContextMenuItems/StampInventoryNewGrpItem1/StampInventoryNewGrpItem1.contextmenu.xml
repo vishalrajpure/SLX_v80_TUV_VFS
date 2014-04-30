@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MenuDropDownItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="48558d16-a1dd-43dd-9446-409e47c0f600">
+  <ItemId>StampInventoryNewGrpItem1</ItemId>
+  <NavUrl>javascript:Sage.Groups.GroupManager.CreateGroup('StampMaster');</NavUrl>
+  <LargeImageUrl />
+  <SmallImageUrl />
+  <ContextMenuId />
+  <Target />
+  <AppliedSecurity />
+</MenuDropDownItem>

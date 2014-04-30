@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MenuDropDownItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="b9c3d602-4243-4063-8955-dc584e056a99">
+  <ItemId>mnuNewComplaint</ItemId>
+  <NavUrl>InsertComplaint.aspx?modeid=Insert&amp;type=Complaint</NavUrl>
+  <LargeImageUrl />
+  <SmallImageUrl />
+  <ContextMenuId />
+  <Target />
+  <AppliedSecurity />
+</MenuDropDownItem>

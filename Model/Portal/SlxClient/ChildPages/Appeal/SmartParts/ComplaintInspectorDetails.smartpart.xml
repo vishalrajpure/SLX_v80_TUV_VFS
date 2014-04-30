@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<SmartPartMapping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="62b16a4d-6a49-4b5d-bfe9-0efcb72ced34">
+  <SmartPartId>ComplaintInspectorDetails</SmartPartId>
+  <ReferencedModelId>b2741b79-02a2-4f4c-81cd-c204f82cf41c</ReferencedModelId>
+  <SmartPart>\Entity Model\SalesLogix Application Entities\ComplaintInspector\QuickForms\ComplaintInspectorDetails.main.quickform.xml</SmartPart>
+  <TargetWorkspace>DialogWorkspace</TargetWorkspace>
+  <ShowInMode>Detail</ShowInMode>
+  <Properties />
+  <AllowRoles />
+</SmartPartMapping>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MenuDropDownItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="4d31c233-83ed-4dd9-b75d-2d5bd6d4ea04">
+  <ItemId>creategrpSurveyorItem</ItemId>
+  <NavUrl>javascript:Sage.Groups.GroupManager.CreateGroup('Surveyor');</NavUrl>
+  <LargeImageUrl />
+  <SmallImageUrl />
+  <ContextMenuId />
+  <Target />
+  <AppliedSecurity />
+</MenuDropDownItem>

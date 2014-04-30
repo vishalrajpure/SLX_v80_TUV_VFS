@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="5e79b56a-5351-4ce0-8bb8-81badc004f5c">LookupHoliday.contextmenu.xml</Item>
+  <Item Id="7b4630cb-c79e-49de-b0c2-3dd7e79debfd">HolidayItem2.contextmenu.xml</Item>
+  <Item Id="7437911a-6f87-4f04-884f-7ae426ceb8b8">CreateNewGroup.contextmenu.xml</Item>
+</ModelItems>

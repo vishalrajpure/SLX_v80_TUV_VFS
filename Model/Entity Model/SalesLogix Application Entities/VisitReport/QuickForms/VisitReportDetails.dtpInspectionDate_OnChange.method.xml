@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="OrmOtherMethod" id="617f8ff3-6ab4-474a-937d-b4cb25c52a3f" lastModifiedUtc="2013-12-07T00:19:25.1688076Z" name="dtpInspectionDate_OnChange" methodType="Other" actionType="None" returnMode="None" isInstance="false" containerName="VisitReportDetails">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmOtherMethod" />
+  </ExtendedPropertiesCollection>
+  <parameter>
+    <OrmEntityMethodParam id="81ed2c9c-a9de-453d-98de-c022b0961d89" paramName="form" sequence="0" paramType="IVisitReportDetails" />
+    <OrmEntityMethodParam id="bf7c2d37-53f5-4564-8191-9f31fde5731a" paramName="args" sequence="0" paramType="EventArgs" />
+  </parameter>
+  <preExecuteTargets />
+  <methodTargets>
+    <methodTarget xsi:type="OrmMethodTargetSnippet" id="53bdc17a-be9b-4cfe-a339-3010f39bea4e" lastModifiedUtc="2013-12-07T01:29:45.317646Z" targetType="Sage.BusinessRules.CodeSnippets.VisitReportDetailsEventHandlers, Sage.SnippetLibrary.CSharp" targetMethod="dtpInspectionDate_OnChangeStep" active="true" codeSnippetId="9675e54c-ec00-4fdb-8432-8b21d4016b11">
+      <ExtendedPropertiesCollection>
+        <extendee type="Sage.Platform.Orm.Entities.OrmMethodTargetSnippet" />
+      </ExtendedPropertiesCollection>
+    </methodTarget>
+  </methodTargets>
+  <postExecuteTargets />
+  <postFlushTargets />
+</method>

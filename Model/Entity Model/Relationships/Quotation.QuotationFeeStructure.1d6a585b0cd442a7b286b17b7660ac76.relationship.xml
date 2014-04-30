@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="1d6a585b-0cd4-42a7-b286-b17b7660ac76" lastModifiedUtc="2013-10-28T19:42:05.7505754Z" parentEntityId="19122f45-dd8e-4067-afb3-94c9c285e447" childEntityId="0c3f11b8-f385-4fcd-8b39-93400190276e">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmRelationship" />
+  </ExtendedPropertiesCollection>
+  <parentProperty id="ab795027-e3be-4406-9218-e4595ffb4a73" lastModifiedUtc="2013-10-28T19:42:05.4541749Z" name="QuotationFeeStructures" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </parentProperty>
+  <childProperty id="d8500724-1bc4-4c06-95e9-01d2fa2ed652" lastModifiedUtc="2013-10-28T19:42:05.4541749Z" name="Quotation" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </childProperty>
+  <column>
+    <OrmRelationshipColumn id="03fc8a92-2dbe-463e-960e-68ac258b4c0e" parentPropertyId="21723f93-948b-47bb-80bc-c8eed65c5873" childPropertyId="8f0cedf8-b97d-42d7-beb2-859223f1ab1c" ordinal="0" />
+  </column>
+</relationship>

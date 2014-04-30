@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="OrmOtherMethod" id="296ead10-7288-4b9f-996c-6f2d6d611d62" lastModifiedUtc="2013-12-23T08:51:08.6549228Z" name="OnLoad1" methodType="Other" actionType="None" returnMode="None" isInstance="false" containerName="AddEditRNStage">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmOtherMethod" />
+  </ExtendedPropertiesCollection>
+  <parameter>
+    <OrmEntityMethodParam id="576b1215-b4bf-4267-a1ed-570f7e7a44a7" paramName="form" sequence="0" paramType="IAddEditRNStage" />
+    <OrmEntityMethodParam id="b4fc426e-b7dc-4f6f-80f7-faa4cc7b65c7" paramName="args" sequence="0" paramType="EventArgs" />
+  </parameter>
+  <preExecuteTargets />
+  <methodTargets />
+  <postExecuteTargets />
+  <postFlushTargets />
+</method>

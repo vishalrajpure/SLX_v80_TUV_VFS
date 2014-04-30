@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="OrmOtherMethod" id="6903f4c8-eae4-4351-8283-37f18c12c401" lastModifiedUtc="2013-12-24T12:38:49.0645067Z" name="btnPrint_OnClick" methodType="Other" actionType="None" returnMode="None" isInstance="false" containerName="RNReportDetails">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmOtherMethod" />
+  </ExtendedPropertiesCollection>
+  <parameter>
+    <OrmEntityMethodParam id="41ade5b2-4c59-4485-986f-1c62fb4b19c7" paramName="form" sequence="0" paramType="IRNReportDetails" />
+    <OrmEntityMethodParam id="95e15a2d-4404-434e-9635-aa1ec8a8b520" paramName="args" sequence="0" paramType="EventArgs" />
+  </parameter>
+  <preExecuteTargets />
+  <methodTargets>
+    <methodTarget xsi:type="OrmMethodTargetSnippet" id="7b5afda3-487f-470d-b5a7-58a37aa45ffe" lastModifiedUtc="2013-12-24T12:38:46.901383Z" targetType="Sage.BusinessRules.CodeSnippets.RNReportDetailsEventHandlers, Sage.SnippetLibrary.CSharp" targetMethod="btnPrint_OnClickStep" active="true" codeSnippetId="aeb4a1f5-afcb-43cd-96c6-86fa28e77832">
+      <ExtendedPropertiesCollection>
+        <extendee type="Sage.Platform.Orm.Entities.OrmMethodTargetSnippet" />
+      </ExtendedPropertiesCollection>
+    </methodTarget>
+  </methodTargets>
+  <postExecuteTargets />
+  <postFlushTargets />
+</method>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="c58078b4-afca-4623-ab45-f4e056095077" lastModifiedUtc="2013-12-05T19:54:23.9668062Z" parentEntityId="e7a70408-03cb-4667-890b-39de33fb739b" childEntityId="94694621-906d-487e-a7d5-289ce7416007">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmRelationship" />
+  </ExtendedPropertiesCollection>
+  <parentProperty id="dfd6cc1c-2ad6-410b-86a7-31b553e0a29c" lastModifiedUtc="2013-12-05T19:54:15.9717252Z" name="VisitReports" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </parentProperty>
+  <childProperty id="0f1662d6-2d62-4662-91cf-0b03e7195a15" lastModifiedUtc="2013-12-05T19:54:15.9717252Z" name="Ticket" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </childProperty>
+  <column>
+    <OrmRelationshipColumn id="ca2aabf8-8f2c-45c9-9b98-3979c374ee62" parentPropertyId="8c393d4a-767b-4d56-aa25-09b7e8b26978" childPropertyId="b8cdb15d-cfff-4593-abfe-4edee65c759d" ordinal="0" />
+  </column>
+</relationship>

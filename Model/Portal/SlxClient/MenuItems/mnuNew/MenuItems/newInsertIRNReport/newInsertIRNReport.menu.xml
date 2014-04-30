@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MenuDropDownItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="609bc26d-fa56-461d-ad30-b7ea940f9093">
+  <ItemId>newInsertIRNReport</ItemId>
+  <NavUrl>InsertIRNReport.aspx?modeID=Insert</NavUrl>
+  <LargeImageUrl />
+  <SmallImageUrl />
+  <ContextMenuId />
+  <Target />
+  <AppliedSecurity />
+</MenuDropDownItem>

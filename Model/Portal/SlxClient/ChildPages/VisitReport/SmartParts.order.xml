@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="8bf0f054-da15-4cd2-8dcb-a0a52cd2216c">LiveGroupViewer.smartpart.xml</Item>
+  <Item Id="d1ce4945-369e-4285-bfe5-bf049f04e55b">VisitReportDetails.smartpart.xml</Item>
+  <Item Id="96439906-feb4-44fe-ad3f-41bf6c6884a3">VisitReportInspector.smartpart.xml</Item>
+  <Item Id="a1d2d76e-d1e3-4930-ac36-d371901999a9">VisitReportItems.smartpart.xml</Item>
+  <Item Id="a66908d6-14a8-4f35-bfb9-6eca6a5d10d0">AddEditVisitReportItem.smartpart.xml</Item>
+  <Item Id="bf7542be-68b0-494d-942d-13c1015ef07f">AddEditVisitReportInspector.smartpart.xml</Item>
+  <Item Id="42961ad8-65fb-412f-a311-b63ef4e6e14d">AttachmentList.smartpart.xml</Item>
+  <Item Id="d1c736d2-f1ce-491c-8ba3-a706b1f96e64">DocumentReference.smartpart.xml</Item>
+  <Item Id="e8f737e4-4576-4137-a56e-13fc86722ae3">AddEditVisitReportDocumentReference.smartpart.xml</Item>
+</ModelItems>

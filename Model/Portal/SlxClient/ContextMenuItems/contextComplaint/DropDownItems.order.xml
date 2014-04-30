@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="9d591c95-4c9e-4e03-b39c-864abdcc43f5">mnulookupComplaint.contextmenu.xml</Item>
+  <Item Id="b9c3d602-4243-4063-8955-dc584e056a99">mnuNewComplaint.contextmenu.xml</Item>
+  <Item Id="a8b26412-5973-443f-a36d-fc6feb256990">mnuGroupComplaint.contextmenu.xml</Item>
+</ModelItems>

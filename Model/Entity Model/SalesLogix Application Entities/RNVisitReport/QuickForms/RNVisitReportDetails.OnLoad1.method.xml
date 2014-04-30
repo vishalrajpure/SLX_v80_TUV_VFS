@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="OrmOtherMethod" id="5f771538-f085-4532-9bf0-9ec247b20122" lastModifiedUtc="2013-12-20T11:35:45.3138145Z" name="OnLoad1" methodType="Other" actionType="None" returnMode="None" isInstance="false" containerName="RNVisitReportDetails">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmOtherMethod" />
+  </ExtendedPropertiesCollection>
+  <parameter>
+    <OrmEntityMethodParam id="b167cdbe-1770-4314-b645-a473c82e9f6d" paramName="form" sequence="0" paramType="IRNVisitReportDetails" />
+    <OrmEntityMethodParam id="0e042ea9-7ab1-421f-abe9-9c19fa9e4b72" paramName="args" sequence="0" paramType="EventArgs" />
+  </parameter>
+  <preExecuteTargets />
+  <methodTargets />
+  <postExecuteTargets />
+  <postFlushTargets />
+</method>

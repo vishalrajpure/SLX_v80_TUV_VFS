@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="OrmOtherMethod" id="e58d11a1-bbb9-47f8-9753-f1f17110f96a" lastModifiedUtc="2013-11-01T19:00:55.3349633Z" name="CALCPRICE_OnChange" methodType="Other" actionType="None" returnMode="None" isInstance="false" containerName="AddEditQuotationProduct">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmOtherMethod" />
+  </ExtendedPropertiesCollection>
+  <parameter>
+    <OrmEntityMethodParam id="00a618e5-336d-46b8-9f77-0231b8be84f4" paramName="form" sequence="0" paramType="IAddEditQuotationProduct" />
+    <OrmEntityMethodParam id="20eca0db-cfab-45c6-8bb8-0b8b8392eff6" paramName="args" sequence="0" paramType="EventArgs" />
+  </parameter>
+  <preExecuteTargets />
+  <methodTargets />
+  <postExecuteTargets />
+  <postFlushTargets />
+</method>

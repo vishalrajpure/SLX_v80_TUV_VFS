@@ -1,0 +1,2 @@
+<%@ Page AutoEventWireup="true" Language="c#" MasterPageFile="~/Masters/base.master" CodeFile="InsertOpportunity.aspx.cs" Inherits="SlxClient.InsertOpportunityPage" Culture="auto" UICulture="auto" %>
+<%@ Assembly Name="System.Web.Extensions, Version=3.5.0.0, Culture=neutral, PublicKeyToken=31BF3856AD364E35" %>

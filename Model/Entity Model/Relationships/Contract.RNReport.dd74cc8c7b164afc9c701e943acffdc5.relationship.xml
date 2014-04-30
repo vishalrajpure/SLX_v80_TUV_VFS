@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="dd74cc8c-7b16-4afc-9c70-1e943acffdc5" lastModifiedUtc="2013-12-17T20:14:35.1231163Z" parentEntityId="3521b9b3-7701-4714-b257-197697f94f85" childEntityId="307053f6-e690-4652-bd64-b9a1077fcf04">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmRelationship" />
+  </ExtendedPropertiesCollection>
+  <parentProperty id="156001f3-d8ff-46fc-acdc-31972008af2d" lastModifiedUtc="2013-12-17T20:14:32.5531127Z" name="RNReports" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </parentProperty>
+  <childProperty id="eae8013a-5d06-468d-a66f-44f14b18e82e" lastModifiedUtc="2013-12-17T20:14:32.5531127Z" name="Contract" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </childProperty>
+  <column>
+    <OrmRelationshipColumn id="edc33957-371b-420e-b814-e9bc8d758291" parentPropertyId="f4eec6b3-71fb-4a4f-a8e1-301cd708403d" childPropertyId="075933db-edc4-4aea-94dd-172c6703ac0b" ordinal="0" />
+  </column>
+</relationship>

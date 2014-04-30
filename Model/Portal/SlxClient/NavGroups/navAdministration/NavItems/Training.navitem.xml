@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<NavigationItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="db3c810d-e7f8-40eb-b289-5942716dec75">
+  <ItemId>Training</ItemId>
+  <NavUrl>Training.aspx</NavUrl>
+  <LargeImageUrl>[Localization!Global_Images:Account_Service_Information_32x32]</LargeImageUrl>
+  <SmallImageUrl>[Localization!Global_Images:Account_Service_Information_16x16]</SmallImageUrl>
+  <ContextMenuId>Training</ContextMenuId>
+  <Target />
+  <AppliedSecurity />
+</NavigationItem>

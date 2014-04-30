@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MenuDropDownItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="a9135941-edb2-48e7-9856-a256b8ad7188">
+  <ItemId>LookupTraining</ItemId>
+  <NavUrl>javascript:Sage.Utility.Groups.showMainLookupFor('Training','Training.aspx');</NavUrl>
+  <LargeImageUrl />
+  <SmallImageUrl />
+  <ContextMenuId />
+  <Target />
+  <AppliedSecurity />
+</MenuDropDownItem>

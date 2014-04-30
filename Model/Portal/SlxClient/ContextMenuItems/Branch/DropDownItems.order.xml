@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="f9c6915b-3f09-4734-8a18-b0af0b743d84">BranchItem1.contextmenu.xml</Item>
+  <Item Id="d8f1c01a-6e34-479e-ac50-8ba7b7bb2097">BranchItem2.contextmenu.xml</Item>
+  <Item Id="0e00afb1-6124-4723-938e-e72ce47130e7">BranchItem3.contextmenu.xml</Item>
+</ModelItems>

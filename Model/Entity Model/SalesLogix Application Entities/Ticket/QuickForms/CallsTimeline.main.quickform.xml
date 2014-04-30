@@ -1,0 +1,113 @@
+<?xml version="1.0"?>
+<QuickForm xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="014f100d-be39-433c-b7ed-0e0cdbe7540c" DefinitionType="Sage.Platform.QuickForms.QuickFormMainDetailViewDefinition, Sage.Platform.QuickForms">
+  <ActiveControl />
+  <ImagePath />
+  <LoadActions />
+  <Name>CallsTimeline</Name>
+  <ClientScriptIncludes />
+  <ClientResourceKeys />
+  <ExtendedProperties />
+  <HelpFile />
+  <ReadOnly>false</ReadOnly>
+  <GeneratePrintView>false</GeneratePrintView>
+  <Controls>
+    <Control typeName="Sage.Platform.QuickForms.QFControls.QFTimeline, Sage.Platform.QuickForms.QFControls">
+      <QFTimeline>
+        <HotKey>0</HotKey>
+        <ControlLabelPlacement>left</ControlLabelPlacement>
+        <Column>0</Column>
+        <Row>0</Row>
+        <TabIndex>0</TabIndex>
+        <ControlId>QFTimeline</ControlId>
+        <DataBindings />
+        <ExtendedProperties />
+        <CaptionAlignment>left</CaptionAlignment>
+        <StyleScheme />
+        <Bands>
+          <QFTimelineBand>
+            <Width>85</Width>
+            <TimelineDateTime>Week</TimelineDateTime>
+            <IntervalPixels>75</IntervalPixels>
+          </QFTimelineBand>
+          <QFTimelineBand>
+            <Width>15</Width>
+            <TimelineDateTime>Year</TimelineDateTime>
+            <IntervalPixels>300</IntervalPixels>
+            <Highlight>true</Highlight>
+            <SyncWith>0</SyncWith>
+            <Overview>true</Overview>
+          </QFTimelineBand>
+        </Bands>
+        <Data>QFMashupDataSource</Data>
+      </QFTimeline>
+    </Control>
+    <Control typeName="Sage.Platform.QuickForms.QFControls.QFMashupDataSource, Sage.Platform.QuickForms.QFControls">
+      <QFMashupDataSource>
+        <HotKey>48</HotKey>
+        <ControlLabelPlacement>none</ControlLabelPlacement>
+        <Column>0</Column>
+        <Row>1</Row>
+        <Visible>false</Visible>
+        <TabIndex>0</TabIndex>
+        <ControlId>QFMashupDataSource</ControlId>
+        <DataBindings />
+        <ExtendedProperties />
+        <CaptionAlignment>left</CaptionAlignment>
+        <StyleScheme />
+        <MashupName>TicketTimeline</MashupName>
+        <ResultName>AllResults</ResultName>
+      </QFMashupDataSource>
+    </Control>
+  </Controls>
+  <ToolControls>
+    <Control typeName="Sage.Platform.QuickForms.Controls.QFElementSpacer, Sage.Platform.QuickForms">
+      <QFElementSpacer>
+        <Column>0</Column>
+        <Row>0</Row>
+        <HotKey>0</HotKey>
+        <TabIndex>0</TabIndex>
+        <ControlId>c91690f477634f579c0f9f146ecbe3b8</ControlId>
+        <DataBindings />
+        <ControlLabelPlacement>left</ControlLabelPlacement>
+        <ExtendedProperties />
+        <CaptionAlignment>left</CaptionAlignment>
+        <StyleScheme />
+      </QFElementSpacer>
+    </Control>
+    <Control typeName="Sage.Platform.QuickForms.Controls.QFElementSpacer, Sage.Platform.QuickForms">
+      <QFElementSpacer>
+        <Column>0</Column>
+        <Row>0</Row>
+        <HotKey>0</HotKey>
+        <TabIndex>0</TabIndex>
+        <ControlId>4fb86876cd74c5a9a0d0a0639d89f96</ControlId>
+        <DataBindings />
+        <ControlLabelPlacement>left</ControlLabelPlacement>
+        <ExtendedProperties />
+        <CaptionAlignment>left</CaptionAlignment>
+        <StyleScheme />
+      </QFElementSpacer>
+    </Control>
+  </ToolControls>
+  <Columns>
+    <ColumnStyle>
+      <SizeType>Percent</SizeType>
+      <Width>100</Width>
+    </ColumnStyle>
+  </Columns>
+  <Rows>
+    <RowStyle>
+      <SizeType>Absolute</SizeType>
+      <Height>35</Height>
+    </RowStyle>
+    <RowStyle>
+      <SizeType>Absolute</SizeType>
+      <Height>35</Height>
+    </RowStyle>
+  </Rows>
+  <Description />
+  <UseEntityNameAsTitle>true</UseEntityNameAsTitle>
+  <EntityTypeName>ITicket</EntityTypeName>
+  <DefaultNamespace>Sage.Entity.Interfaces</DefaultNamespace>
+  <AssemblyName>Sage.Entity.Interfaces</AssemblyName>
+</QuickForm>

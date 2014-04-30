@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MenuDropDownItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="079edd59-3c7f-4be2-882a-4648353ffa6e">
+  <ItemId>menuItemLookupVisitReport</ItemId>
+  <NavUrl>VisitReport.aspx?modeid=list</NavUrl>
+  <LargeImageUrl />
+  <SmallImageUrl />
+  <ContextMenuId />
+  <Target />
+  <AppliedSecurity />
+</MenuDropDownItem>

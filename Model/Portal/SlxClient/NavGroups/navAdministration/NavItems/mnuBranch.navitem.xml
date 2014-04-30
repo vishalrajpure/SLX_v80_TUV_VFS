@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<NavigationItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="78bd1fa6-1cb6-495f-bd4d-3e9cdacd4808">
+  <ItemId>mnuBranch</ItemId>
+  <NavUrl>Branch.aspx</NavUrl>
+  <LargeImageUrl>[Localization!Global_Images:Personal_24x24]</LargeImageUrl>
+  <SmallImageUrl>[Localization!Global_Images:Personal_16x16]</SmallImageUrl>
+  <ContextMenuId>Branch</ContextMenuId>
+  <Target />
+  <AppliedSecurity />
+</NavigationItem>

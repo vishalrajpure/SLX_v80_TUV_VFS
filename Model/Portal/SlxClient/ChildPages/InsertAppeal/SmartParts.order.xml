@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="7301a4fd-51fd-4c36-b2d3-cbe11b2394b6">InsertComplaint.smartpart.xml</Item>
+  <Item Id="1c1d3277-bcec-4215-894d-f7e311527286">ComplaintInspectors.smartpart.xml</Item>
+</ModelItems>

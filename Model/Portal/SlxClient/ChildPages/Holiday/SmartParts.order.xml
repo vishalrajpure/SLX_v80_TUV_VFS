@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="922711fa-e113-43d2-b6be-f46fe2aa0632">LiveGroupViewer.smartpart.xml</Item>
+  <Item Id="3cc2b511-ab14-4fab-86fa-29d50713d42c">Holiday.smartpart.xml</Item>
+  <Item Id="9cb8c443-d839-4c7b-9905-88a1a77659e6">HolidayItem.smartpart.xml</Item>
+  <Item Id="c61d33c4-155c-4d81-b80c-04240f59bcc9">AddEditHolidayItem.smartpart.xml</Item>
+</ModelItems>

@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="OrmOtherMethod" id="244d3ae9-5126-47ad-aeab-39078ba42e43" lastModifiedUtc="2013-12-03T22:50:36.9470809Z" name="QFButton_OnClick" methodType="Other" actionType="None" returnMode="None" isInstance="false" containerName="AddEditCallsInspectors">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmOtherMethod" />
+  </ExtendedPropertiesCollection>
+  <parameter>
+    <OrmEntityMethodParam id="0828209f-28e7-4461-9393-f7393a1b2df6" paramName="form" sequence="0" paramType="IAddEditCallsInspectors" />
+    <OrmEntityMethodParam id="5bc52aee-782e-442b-9a22-8f5d3b18d271" paramName="args" sequence="0" paramType="EventArgs" />
+  </parameter>
+  <preExecuteTargets />
+  <methodTargets />
+  <postExecuteTargets />
+  <postFlushTargets />
+</method>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<SmartPartMapping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="0551aee7-406b-42a9-a6a1-727a42f5b2e5">
+  <SmartPartId>StampMaster</SmartPartId>
+  <ReferencedModelId>b2741b79-02a2-4f4c-81cd-c204f82cf41c</ReferencedModelId>
+  <SmartPart>\Entity Model\SalesLogix Application Entities\StampMaster\QuickForms\StampMaster.main.quickform.xml</SmartPart>
+  <TargetWorkspace>MainContent</TargetWorkspace>
+  <ShowInMode>Detail</ShowInMode>
+  <Properties />
+  <AllowRoles />
+</SmartPartMapping>

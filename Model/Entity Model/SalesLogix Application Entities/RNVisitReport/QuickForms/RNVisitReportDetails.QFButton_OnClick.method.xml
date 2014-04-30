@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="OrmOtherMethod" id="c3328c8f-377e-4579-ab6d-b17fd75307a4" lastModifiedUtc="2013-12-20T13:58:38.4211682Z" name="QFButton_OnClick" methodType="Other" actionType="None" returnMode="None" isInstance="false" containerName="RNVisitReportDetails">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmOtherMethod" />
+  </ExtendedPropertiesCollection>
+  <parameter>
+    <OrmEntityMethodParam id="eaafa11a-aa0e-4783-a546-25b2823a17fa" paramName="form" sequence="0" paramType="IRNVisitReportDetails" />
+    <OrmEntityMethodParam id="c9d9dcac-f6e3-43d0-a5a9-8ef9919a33f8" paramName="args" sequence="0" paramType="EventArgs" />
+  </parameter>
+  <preExecuteTargets />
+  <methodTargets />
+  <postExecuteTargets />
+  <postFlushTargets />
+</method>

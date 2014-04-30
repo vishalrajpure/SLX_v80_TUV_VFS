@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<NavigationItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="00202395-77f5-4f29-a008-4231184afd65">
+  <ItemId>Surveyor</ItemId>
+  <NavUrl>Surveyor.aspx</NavUrl>
+  <LargeImageUrl>[Localization!Global_Images:campaigns_navbar_32x32]</LargeImageUrl>
+  <SmallImageUrl>[Localization!Global_Images:campaigns_navbar_24x24]</SmallImageUrl>
+  <ContextMenuId>SurveyorContextmenu</ContextMenuId>
+  <Target />
+  <AppliedSecurity />
+</NavigationItem>

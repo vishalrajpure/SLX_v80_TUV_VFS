@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="2f1710ae-fdc3-459e-bdb1-9938568db0fd" lastModifiedUtc="2013-10-11T08:04:32.0088874Z" name="OnAfterInsert" methodType="CrudEvent" actionType="None" returnMode="None">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmEntityMethod" />
+  </ExtendedPropertiesCollection>
+  <parameter />
+  <preExecuteTargets />
+  <methodTargets>
+    <methodTarget id="7235e6d5-d6e9-427a-8d1f-98b8615c0597" lastModifiedUtc="2013-11-20T02:27:38.0013401Z" targetType="Sage.Platform.Orm.DefaultCRUDEventHandler, Sage.Platform" targetMethod="OnAfterInsert" active="false">
+      <ExtendedPropertiesCollection>
+        <extendee type="Sage.Platform.Orm.Entities.OrmMethodTarget" />
+      </ExtendedPropertiesCollection>
+    </methodTarget>
+    <methodTarget xsi:type="OrmMethodTargetSnippet" id="5571bbe1-49c5-499b-aadc-2fbedbae11d6" lastModifiedUtc="2013-11-20T02:27:52.1742924Z" targetType="Sage.BusinessRules.CodeSnippets.TrainingBusinessRules, Sage.SnippetLibrary.CSharp" targetMethod="SetSeccode_OnAfterInsertStep" active="true" codeSnippetId="6fea5fca-751e-4507-a515-4a7dec186193">
+      <ExtendedPropertiesCollection>
+        <extendee type="Sage.Platform.Orm.Entities.OrmMethodTargetSnippet" />
+      </ExtendedPropertiesCollection>
+    </methodTarget>
+  </methodTargets>
+  <postExecuteTargets />
+  <postFlushTargets />
+</method>

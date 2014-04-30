@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="2a509c77-5505-4ccf-82ad-2f021cb6c825">LiveGroupViewer.smartpart.xml</Item>
+  <Item Id="3f750f0b-34cf-4f28-8c3d-fdabf3eafe85">Appeal.smartpart.xml</Item>
+  <Item Id="f25ad6e7-df58-43d3-9283-5bbdb6f64bd9">ComplaintInspectors.smartpart.xml</Item>
+  <Item Id="62b16a4d-6a49-4b5d-bfe9-0efcb72ced34">ComplaintInspectorDetails.smartpart.xml</Item>
+</ModelItems>

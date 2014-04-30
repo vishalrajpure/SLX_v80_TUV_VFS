@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MenuDropDownItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="61a5cba0-cef1-40e2-b381-046988225b6c">
+  <ItemId>QuotationItem1</ItemId>
+  <NavUrl>javascript:Sage.Utility.Groups.showMainLookupFor('Quotation','Quotation.aspx');</NavUrl>
+  <LargeImageUrl />
+  <SmallImageUrl />
+  <ContextMenuId />
+  <Target />
+  <AppliedSecurity />
+</MenuDropDownItem>

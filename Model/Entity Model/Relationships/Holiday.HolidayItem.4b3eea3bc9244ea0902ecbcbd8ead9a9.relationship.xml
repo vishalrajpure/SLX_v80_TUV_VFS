@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="4b3eea3b-c924-4ea0-902e-cbcbd8ead9a9" lastModifiedUtc="2013-10-17T09:20:13.1275241Z" parentEntityId="ac44226f-ffdc-45c7-878e-79d8321b1e14" childEntityId="dff83c82-9392-4ff5-866c-d2faf222c57f">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmRelationship" />
+  </ExtendedPropertiesCollection>
+  <parentProperty id="6581b3f8-27b8-4dd8-b6e0-b9544829c72e" lastModifiedUtc="2013-10-17T09:20:12.8467236Z" name="HolidayItems" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </parentProperty>
+  <childProperty id="c92c03c5-ece6-4530-a43a-942673f03453" lastModifiedUtc="2013-10-17T09:20:12.8623236Z" name="Holiday" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </childProperty>
+  <column>
+    <OrmRelationshipColumn id="0709cd55-9327-4e9c-8660-b38cb0955795" parentPropertyId="20a2ff6b-4154-4095-ad97-c0d09ef9d29a" childPropertyId="f15d2f34-70b2-442b-b486-02333c55a975" ordinal="0" />
+  </column>
+</relationship>

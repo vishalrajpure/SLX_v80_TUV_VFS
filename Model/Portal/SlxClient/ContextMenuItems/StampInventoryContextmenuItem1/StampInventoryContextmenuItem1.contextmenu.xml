@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MenuDropDownItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="ce366a9d-9747-4762-85e4-5f193b85a577">
+  <ItemId>StampInventoryContextmenuItem1</ItemId>
+  <NavUrl />
+  <LargeImageUrl>[Localization!Global_Images:sync_jobs_24x24]</LargeImageUrl>
+  <SmallImageUrl>[Localization!Global_Images:sync_jobs_16x16]</SmallImageUrl>
+  <ContextMenuId />
+  <Target />
+  <AppliedSecurity />
+</MenuDropDownItem>

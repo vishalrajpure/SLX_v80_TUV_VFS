@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="2d742278-8bbe-4f99-b3ef-03c54aa03ee9">LiveGroupViewer.smartpart.xml</Item>
+  <Item Id="902a9f98-95d3-491e-9703-a1ec55620ea0">Branch.smartpart.xml</Item>
+  <Item Id="7b6a26b2-29c7-434f-bc9b-b9089a551f3e">Inspectors.smartpart.xml</Item>
+  <Item Id="d0e18a09-556a-45cc-a0ad-7bda9922bc57">AddEditBranchSurveyor.smartpart.xml</Item>
+  <Item Id="ddb32644-0281-40a5-8953-1d5eed90cbad">AttachmentList.smartpart.xml</Item>
+</ModelItems>

@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="b2585bc1-2096-48c5-9fac-48234041bb6d">LiveGroupViewer.smartpart.xml</Item>
+  <Item Id="f3dbbdc0-ff41-4753-bb1d-f67eae887cce">QuotationDetail.smartpart.xml</Item>
+  <Item Id="7049ff05-9799-4e41-9560-6e064debfb46">QuotationFeeStructure.smartpart.xml</Item>
+  <Item Id="d01f0c8d-9daf-4b75-b315-6d935994ed0d">QuotationPaymentTerms.smartpart.xml</Item>
+  <Item Id="5fa65d22-42b5-4de7-916b-982dcd3d4a8b">QuotationScopeOfWork.smartpart.xml</Item>
+  <Item Id="be41862d-72b8-4887-be6c-4069aef8bed9">QuotationValidity.smartpart.xml</Item>
+  <Item Id="3e33d442-cf9f-4455-a7ae-c952e0202e55">AddEditQuotationFeeStructure.smartpart.xml</Item>
+  <Item Id="79f3023a-b346-4a0a-9fe1-dd1cfa1cfd5a">AddEditQuotationPaymentTerm.smartpart.xml</Item>
+  <Item Id="5d32eb98-9f22-4094-afe1-5c83afae0e8d">AddEditQuotationScopeofwork.smartpart.xml</Item>
+  <Item Id="4f6bd673-b1b1-413e-ac93-3bce0837f04c">AddEditQuotationValidity.smartpart.xml</Item>
+  <Item Id="462cd096-6e50-4afb-832c-b0436362e9a0">AddEditQuotationContact.smartpart.xml</Item>
+  <Item Id="d2d418bb-4445-48de-9eec-d561a00da69a">QuotationProduct.smartpart.xml</Item>
+  <Item Id="8149503a-45f8-49c6-8827-9e2b96265399">AddEditQuotationProduct.smartpart.xml</Item>
+  <Item Id="a5d8f016-20e9-45e4-87a1-068cce4fd8e8">QuotationContactGrid.smartpart.xml</Item>
+</ModelItems>

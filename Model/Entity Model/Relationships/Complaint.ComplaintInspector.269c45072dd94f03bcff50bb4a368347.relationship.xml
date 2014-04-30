@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="269c4507-2dd9-4f03-bcff-50bb4a368347" lastModifiedUtc="2013-12-20T06:03:58.7772258Z" parentEntityId="3667fc88-5d02-4e16-8af3-691556168f3e" childEntityId="6792d33e-3537-46c7-86bf-4ce35bba4bb6">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmRelationship" />
+  </ExtendedPropertiesCollection>
+  <parentProperty id="28dbe0bc-f9fe-4791-931d-5737c6e9e460" lastModifiedUtc="2013-12-20T06:03:58.2341947Z" name="ComplaintInspectors" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </parentProperty>
+  <childProperty id="29087c01-35f6-47b6-9d08-9b7f3c0c2678" lastModifiedUtc="2013-12-20T06:03:58.2371949Z" name="Complaint" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </childProperty>
+  <column>
+    <OrmRelationshipColumn id="68a598eb-f3f8-41ae-b42d-9a9a14f0106a" parentPropertyId="02a2fd9f-7abc-4821-9a1d-e6c74b4fabd4" childPropertyId="ef1ac189-d58b-471a-b5e3-dea09af09cac" ordinal="0" />
+  </column>
+</relationship>

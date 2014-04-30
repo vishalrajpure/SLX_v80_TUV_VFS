@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<NavigationItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="1b43dcea-8937-4bd3-9fcb-5ff8a98f4ef5">
+  <ItemId>Holiday</ItemId>
+  <NavUrl>Holiday.aspx</NavUrl>
+  <LargeImageUrl>[Localization!Global_Images:Calendar_24x24]</LargeImageUrl>
+  <SmallImageUrl>[Localization!Global_Images:Calendar_16x16]</SmallImageUrl>
+  <ContextMenuId>Holiday</ContextMenuId>
+  <Target />
+  <AppliedSecurity />
+</NavigationItem>

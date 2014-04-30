@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="3698482d-662b-4041-8ecf-fc7f36384012" lastModifiedUtc="2013-12-07T20:59:08.9179541Z" name="OnBeforeInsert" methodType="CrudEvent" actionType="None" returnMode="None">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmEntityMethod" />
+  </ExtendedPropertiesCollection>
+  <parameter />
+  <preExecuteTargets />
+  <methodTargets>
+    <methodTarget id="31ea6126-0976-4ada-ba38-bdb0fe9dbba4" lastModifiedUtc="2013-12-07T20:41:47.6923995Z" targetType="Sage.Platform.Orm.DefaultCRUDEventHandler, Sage.Platform" targetMethod="OnBeforeInsert" active="true">
+      <ExtendedPropertiesCollection>
+        <extendee type="Sage.Platform.Orm.Entities.OrmMethodTarget" />
+      </ExtendedPropertiesCollection>
+    </methodTarget>
+  </methodTargets>
+  <postExecuteTargets>
+    <methodTarget xsi:type="OrmMethodTargetSnippet" id="f5f6ce2e-6601-4092-ba05-73ef31e89812" lastModifiedUtc="2013-12-07T21:01:04.0365386Z" targetType="Sage.BusinessRules.CodeSnippets.TicketProductBusinessRules, Sage.SnippetLibrary.CSharp" targetMethod="OnBeforeInsertStep" active="true" codeSnippetId="2e97c0f9-e497-4dec-a24d-85812791df45">
+      <ExtendedPropertiesCollection>
+        <extendee type="Sage.Platform.Orm.Entities.OrmMethodTargetSnippet" />
+      </ExtendedPropertiesCollection>
+    </methodTarget>
+  </postExecuteTargets>
+  <postFlushTargets />
+</method>

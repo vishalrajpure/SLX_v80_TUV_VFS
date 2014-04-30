@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="OrmOtherMethod" id="d56054bd-6d3d-4e54-8d7f-c9c9f4a26dbb" lastModifiedUtc="2013-12-24T12:32:49.2329255Z" name="btnPrint_OnClick" methodType="Other" actionType="None" returnMode="None" isInstance="false" containerName="VisitReportDetails">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmOtherMethod" />
+  </ExtendedPropertiesCollection>
+  <parameter>
+    <OrmEntityMethodParam id="3c86b509-1e41-41d9-a063-e389a4a7e79b" paramName="form" sequence="0" paramType="IVisitReportDetails" />
+    <OrmEntityMethodParam id="9c1eebef-89b2-4cb6-9b77-f3f444430158" paramName="args" sequence="0" paramType="EventArgs" />
+  </parameter>
+  <preExecuteTargets />
+  <methodTargets>
+    <methodTarget xsi:type="OrmMethodTargetSnippet" id="75edc489-bfaf-400a-b972-562c180fbaec" lastModifiedUtc="2013-12-24T12:37:14.1750794Z" targetType="Sage.BusinessRules.CodeSnippets.VisitReportDetailsEventHandlers, Sage.SnippetLibrary.CSharp" targetMethod="btnPrint_OnClickStep" active="true" codeSnippetId="e8ea63b8-7c56-4557-8751-43e5f941b67e">
+      <ExtendedPropertiesCollection>
+        <extendee type="Sage.Platform.Orm.Entities.OrmMethodTargetSnippet" />
+      </ExtendedPropertiesCollection>
+    </methodTarget>
+  </methodTargets>
+  <postExecuteTargets />
+  <postFlushTargets />
+</method>

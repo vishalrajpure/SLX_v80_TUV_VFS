@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="9bc9f35c-e83f-4b0a-9a46-026f8447ca9e">LiveGroupViewer.smartpart.xml</Item>
+  <Item Id="e9efb020-78f9-4c92-a00e-b7d7b73858bb">CallsActivityRateDetail.smartpart.xml</Item>
+  <Item Id="8dbf3f48-09e2-44b6-9cfe-f750ffde6851">CallsActivityRates.smartpart.xml</Item>
+  <Item Id="41e15645-5a22-4099-887c-345f5d123d17">CallsActivityRateExtendedDetail.smartpart.xml</Item>
+</ModelItems>

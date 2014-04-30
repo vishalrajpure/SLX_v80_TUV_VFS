@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="CustomerPONumber.Caption" xml:space="preserve">
+    <value>CustomerPONumber</value>
+  </data>
+  <data name="Inspection_call_received.Caption" xml:space="preserve">
+    <value>Inspection Call Received</value>
+  </data>
+  <data name="InspectionDate.Caption" xml:space="preserve">
+    <value>InspectionDate</value>
+  </data>
+  <data name="InspectionTime.Caption" xml:space="preserve">
+    <value>InspectionTime</value>
+  </data>
+  <data name="ProjectName.Caption" xml:space="preserve">
+    <value>ProjectName</value>
+  </data>
+  <data name="ReportDate.Caption" xml:space="preserve">
+    <value>ReportDate</value>
+  </data>
+  <data name="VisitReportID.Caption" xml:space="preserve">
+    <value>VisitReportID</value>
+  </data>
+  <data name="grdVisitReports.e87f80bf-e322-4c38-8f3e-31cdf008abfb.ColumnHeading" xml:space="preserve">
+    <value>CustomerPONumber</value>
+  </data>
+  <data name="grdVisitReports.457cc6e8-9b3f-4422-a861-f4f45ab7fd24.ColumnHeading" xml:space="preserve">
+    <value>Inspection Call Received</value>
+  </data>
+  <data name="grdVisitReports.d59c66cb-cf2d-4603-b9a3-cf70dd510a0f.ColumnHeading" xml:space="preserve">
+    <value>InspectionDate</value>
+  </data>
+  <data name="grdVisitReports.d5f5d3d7-7f13-4f02-bb6b-eda1854d5238.ColumnHeading" xml:space="preserve">
+    <value>InspectionTime</value>
+  </data>
+  <data name="grdVisitReports.7e2d9a83-a3e5-451b-b0c7-e4a966ca8b2f.ColumnHeading" xml:space="preserve">
+    <value>ProjectName</value>
+  </data>
+  <data name="grdVisitReports.b168917e-5233-43b7-bf9b-c91079d418c0.ColumnHeading" xml:space="preserve">
+    <value>ReportDate</value>
+  </data>
+  <data name="grdVisitReports.0d741e7b-2362-4bc5-998f-213c262c60ba.ColumnHeading" xml:space="preserve">
+    <value>VisitReportID</value>
+  </data>
+  <data name="grdVisitReports.9170c02f-4815-4f1e-84c4-2b94b0876465.ColumnHeading" xml:space="preserve">
+    <value>Inspection call received</value>
+  </data>
+  <data name="grdVisitReports.5c665dca-6840-4e64-8f46-10dfd4c0fd63.ColumnHeading" xml:space="preserve">
+    <value>InspectionDate</value>
+  </data>
+  <data name="grdVisitReports.00cfe6cb-57d6-4e82-b7b5-783c0cdd8058.ColumnHeading" xml:space="preserve">
+    <value>ReportDate</value>
+  </data>
+  <data name="grdVisitReports.6a2095fc-9a89-4c9c-84ae-6415fe2c8e3a.ColumnHeading" xml:space="preserve">
+    <value>Inspection call received</value>
+  </data>
+  <data name="grdVisitReports.8f8d1efc-f40e-4b65-b610-235d43cd0483.ColumnHeading" xml:space="preserve">
+    <value>Visit Report ID</value>
+  </data>
+</root>

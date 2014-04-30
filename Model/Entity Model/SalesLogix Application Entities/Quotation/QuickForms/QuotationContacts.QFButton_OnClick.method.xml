@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="OrmOtherMethod" id="91e461fa-ec92-4e2d-a1d2-76537db87c0a" lastModifiedUtc="2013-10-30T19:33:02.1259284Z" name="QFButton_OnClick" methodType="Other" actionType="None" returnMode="None" isInstance="false" containerName="QuotationContacts">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmOtherMethod" />
+  </ExtendedPropertiesCollection>
+  <parameter>
+    <OrmEntityMethodParam id="fe356e4b-7ba0-4a39-b603-1249dccef165" paramName="form" sequence="0" paramType="IQuotationContacts" />
+    <OrmEntityMethodParam id="7af1bcde-a386-4303-be92-df8c54febf37" paramName="args" sequence="0" paramType="EventArgs" />
+  </parameter>
+  <preExecuteTargets />
+  <methodTargets />
+  <postExecuteTargets />
+  <postFlushTargets />
+</method>

@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="2048d4d4-619b-4490-a2e1-04c127016ff5">LiveGroupViewer.smartpart.xml</Item>
+  <Item Id="474415de-d30a-4a99-a871-387b695726e2">StampInventory.smartpart.xml</Item>
+  <Item Id="eacdbd31-b82b-46f2-98f2-a52de98589ce">StampItemsDetails.smartpart.xml</Item>
+  <Item Id="0ec60c0e-6be9-4e9f-8593-927bb2ec4199">AddEditStampItem.smartpart.xml</Item>
+  <Item Id="0e178ea9-b863-4e73-8d8b-cced20efb4c3">AttachmentList.smartpart.xml</Item>
+</ModelItems>

@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="lueAccount.Caption" xml:space="preserve">
+    <value>Client</value>
+  </data>
+  <data name="dtpActionDate.Caption" xml:space="preserve">
+    <value>ActionDate</value>
+  </data>
+  <data name="ownAssignto.Caption" xml:space="preserve">
+    <value>Assignedto</value>
+  </data>
+  <data name="pklCategory.Caption" xml:space="preserve">
+    <value>Category</value>
+  </data>
+  <data name="txtCAtopreventRecurrence.Caption" xml:space="preserve">
+    <value>CA to Prevent Recurrence</value>
+  </data>
+  <data name="dtpComplaintDate.Caption" xml:space="preserve">
+    <value>ComplaintDate</value>
+  </data>
+  <data name="txtComplaintNumber.Caption" xml:space="preserve">
+    <value>ComplaintNumber</value>
+  </data>
+  <data name="lueContact.Caption" xml:space="preserve">
+    <value>Contact</value>
+  </data>
+  <data name="luesubJob.Caption" xml:space="preserve">
+    <value>Sub-Job</value>
+  </data>
+  <data name="txtCorrectionofNC.Caption" xml:space="preserve">
+    <value>Correction of NC</value>
+  </data>
+  <data name="txtDescription.Caption" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="txtEffectivenessofImplementationofCA.Caption" xml:space="preserve">
+    <value>Effectiveness Of Implementation of CA</value>
+  </data>
+  <data name="lueExecutingBranch.Caption" xml:space="preserve">
+    <value>Executing Branch</value>
+  </data>
+  <data name="lueOriginatingBranch.Caption" xml:space="preserve">
+    <value>Originating Branch</value>
+  </data>
+  <data name="txtResponse.Caption" xml:space="preserve">
+    <value>Response</value>
+  </data>
+  <data name="dtpResponseDate.Caption" xml:space="preserve">
+    <value>ResponseDate</value>
+  </data>
+  <data name="txtRootCause.Caption" xml:space="preserve">
+    <value>RootCause</value>
+  </data>
+  <data name="luejob.Caption" xml:space="preserve">
+    <value>Job</value>
+  </data>
+  <data name="pklStatus.Caption" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="pklSubCategory.Caption" xml:space="preserve">
+    <value>SubCategory</value>
+  </data>
+  <data name="lueSurveyor.Caption" xml:space="preserve">
+    <value>Inspectors</value>
+  </data>
+  <data name="lueAccount.LookupProperties.AccountName.PropertyHeader" xml:space="preserve">
+    <value>AccountName (Account Name)</value>
+  </data>
+  <data name="lueAccount.LookupProperties.Region.PropertyHeader" xml:space="preserve">
+    <value>Region</value>
+  </data>
+  <data name="lueAccount.LookupProperties.Territory.PropertyHeader" xml:space="preserve">
+    <value>Territory</value>
+  </data>
+  <data name="lueAccount.LookupProperties.Type.PropertyHeader" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="lueAccount.LookupProperties.Address.Address1.PropertyHeader" xml:space="preserve">
+    <value>Address Address1 (Address 1)</value>
+  </data>
+  <data name="lueAccount.LookupProperties.Address.Address2.PropertyHeader" xml:space="preserve">
+    <value>Address Address2 (Address 2)</value>
+  </data>
+  <data name="lueAccount.LookupProperties.Address.PostalCode.PropertyHeader" xml:space="preserve">
+    <value>Address PostalCode (Postal Code)</value>
+  </data>
+  <data name="lueAccount.LookupProperties.Owner.OwnerDescription.PropertyHeader" xml:space="preserve">
+    <value>Owner OwnerDescription (Owner Description)</value>
+  </data>
+  <data name="lueAccount.LookupProperties.SubType.PropertyHeader" xml:space="preserve">
+    <value>SubType (Sub Type)</value>
+  </data>
+  <data name="lueAccount.LookupProperties.Address.City.PropertyHeader" xml:space="preserve">
+    <value>Address City</value>
+  </data>
+  <data name="lueAccount.LookupProperties.Address.State.PropertyHeader" xml:space="preserve">
+    <value>Address State</value>
+  </data>
+  <data name="lueAccount.LookupProperties.Status.PropertyHeader" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="lueAccount.LookupProperties.AccountManager.UserInfo.UserName.PropertyHeader" xml:space="preserve">
+    <value>AccountManager.UserInfo UserName (User Name)</value>
+  </data>
+  <data name="lueAccount.LookupProperties.MainPhone.PropertyHeader" xml:space="preserve">
+    <value>MainPhone (Main Phone)</value>
+  </data>
+  <data name="lueContact.LookupProperties.AccountName.PropertyHeader" xml:space="preserve">
+    <value>AccountName (Account Name)</value>
+  </data>
+  <data name="lueContact.LookupProperties.Address.City.PropertyHeader" xml:space="preserve">
+    <value>Address City</value>
+  </data>
+  <data name="lueContact.LookupProperties.Address.State.PropertyHeader" xml:space="preserve">
+    <value>Address State</value>
+  </data>
+  <data name="lueContact.LookupProperties.Email.PropertyHeader" xml:space="preserve">
+    <value>Email</value>
+  </data>
+  <data name="lueContact.LookupProperties.LastName.PropertyHeader" xml:space="preserve">
+    <value>LastName (Last Name)</value>
+  </data>
+  <data name="lueContact.LookupProperties.WorkPhone.PropertyHeader" xml:space="preserve">
+    <value>WorkPhone (Work Phone)</value>
+  </data>
+  <data name="luejob.LookupProperties.Account.AccountName.PropertyHeader" xml:space="preserve">
+    <value>Account AccountName (Account Name)</value>
+  </data>
+  <data name="luejob.LookupProperties.CreateDate.PropertyHeader" xml:space="preserve">
+    <value>CreateDate (Create Date)</value>
+  </data>
+  <data name="luejob.LookupProperties.Ordercode.PropertyHeader" xml:space="preserve">
+    <value>Ordercode</value>
+  </data>
+  <data name="luejob.LookupProperties.ProjectType.PropertyHeader" xml:space="preserve">
+    <value>ProjectType</value>
+  </data>
+  <data name="luesubJob.LookupProperties.Amount.PropertyHeader" xml:space="preserve">
+    <value>Amount</value>
+  </data>
+  <data name="luesubJob.LookupProperties.Discount.PropertyHeader" xml:space="preserve">
+    <value>Discount</value>
+  </data>
+  <data name="luesubJob.LookupProperties.Period.PropertyHeader" xml:space="preserve">
+    <value>Period (Quantity)</value>
+  </data>
+  <data name="luesubJob.LookupProperties.PONumber.PropertyHeader" xml:space="preserve">
+    <value>PONumber (Purchase Order Number)</value>
+  </data>
+  <data name="luesubJob.LookupProperties.PurchaseDate.PropertyHeader" xml:space="preserve">
+    <value>PurchaseDate (Purchase Date)</value>
+  </data>
+  <data name="lueSurveyor.LookupProperties.Branch.PropertyHeader" xml:space="preserve">
+    <value>Branch (branch)</value>
+  </data>
+  <data name="lueSurveyor.LookupProperties.EmailAddress.PropertyHeader" xml:space="preserve">
+    <value>EmailAddress</value>
+  </data>
+  <data name="lueSurveyor.LookupProperties.FirstName.PropertyHeader" xml:space="preserve">
+    <value>FirstName</value>
+  </data>
+  <data name="lueSurveyor.LookupProperties.LastName.PropertyHeader" xml:space="preserve">
+    <value>LastName</value>
+  </data>
+  <data name="lueSurveyor.LookupProperties.MobileNo.PropertyHeader" xml:space="preserve">
+    <value>MobileNo</value>
+  </data>
+  <data name="lueSurveyor.LookupProperties.SurveyorType.PropertyHeader" xml:space="preserve">
+    <value>SurveyorType</value>
+  </data>
+  <data name="luesubJob.LookupProperties.SalesOrderId.PropertyHeader" xml:space="preserve">
+    <value>SalesOrderId</value>
+  </data>
+  <data name="luesubJob.LookupProperties.ReferenceNumber.PropertyHeader" xml:space="preserve">
+    <value>ReferenceNumber (Reference Number)</value>
+  </data>
+  <data name="luesubJob.LookupProperties.EndingDate.PropertyHeader" xml:space="preserve">
+    <value>EndingDate (Ending Date)</value>
+  </data>
+  <data name="luesubJob.LookupProperties.ServiceCode.PropertyHeader" xml:space="preserve">
+    <value>ServiceCode (Service Code)</value>
+  </data>
+  <data name="luesubJob.LookupProperties.StartDate.PropertyHeader" xml:space="preserve">
+    <value>StartDate (Start Date)</value>
+  </data>
+  <data name="luejob.LookupProperties.BranchId.PropertyHeader" xml:space="preserve">
+    <value>BranchId</value>
+  </data>
+  <data name="luejob.LookupProperties.SAPJobNo.PropertyHeader" xml:space="preserve">
+    <value>SAPJobNo</value>
+  </data>
+</root>

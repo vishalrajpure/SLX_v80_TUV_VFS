@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="e21b259a-804f-48b6-bca2-bf6b7457e6b8">AddEditCallsActivityItem.smartpart.xml</Item>
+  <Item Id="81375c5e-8fd1-437e-b6d9-d492c1472a57">AddEditCallsActivity.smartpart.xml</Item>
+  <Item Id="ee3260ac-2d3e-46dc-9a6c-a5074d4ad86f">CallsActivityItems.smartpart.xml</Item>
+</ModelItems>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="8e05ef9e-24ff-4b4b-b8e1-e3892848093d" lastModifiedUtc="2013-12-17T20:10:34.529215Z" parentEntityId="e7a70408-03cb-4667-890b-39de33fb739b" childEntityId="307053f6-e690-4652-bd64-b9a1077fcf04">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmRelationship" />
+  </ExtendedPropertiesCollection>
+  <parentProperty id="903f7fd2-6a3c-48f8-901b-1d5bf97fe388" lastModifiedUtc="2013-12-17T20:10:31.3482104Z" name="RNReports" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </parentProperty>
+  <childProperty id="8216d520-8985-43ce-9f24-ccbdbe271e3a" lastModifiedUtc="2013-12-17T20:10:31.3482104Z" name="Ticket" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </childProperty>
+  <column>
+    <OrmRelationshipColumn id="4d688b94-e5cd-414a-b16c-7bd7196281fb" parentPropertyId="8c393d4a-767b-4d56-aa25-09b7e8b26978" childPropertyId="bb76cd2d-1cbb-4d56-9023-181cc1353fc9" ordinal="0" />
+  </column>
+</relationship>

@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MenuDropDownItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="7685c4b7-9f23-454d-b630-9d885f544660">
+  <ItemId>New_Holiday</ItemId>
+  <NavUrl>InsertHoliday.aspx?modeid=Insert</NavUrl>
+  <LargeImageUrl>[Localization!Global_Images:Calendar_24x24]</LargeImageUrl>
+  <SmallImageUrl>[Localization!Global_Images:Calendar_16x16]</SmallImageUrl>
+  <ContextMenuId />
+  <Target />
+  <AppliedSecurity />
+</MenuDropDownItem>

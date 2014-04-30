@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<NavigationItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="9be4d18f-3015-4cff-abfa-15d53b3207d8">
+  <ItemId>navComplaint</ItemId>
+  <NavUrl>Complaint.aspx</NavUrl>
+  <LargeImageUrl>[Localization!Global_Images:Ticket_List_3D_32x32]</LargeImageUrl>
+  <SmallImageUrl>[Localization!Global_Images:ticket_24x24]</SmallImageUrl>
+  <ContextMenuId>contextComplaint</ContextMenuId>
+  <Target />
+  <AppliedSecurity />
+</NavigationItem>

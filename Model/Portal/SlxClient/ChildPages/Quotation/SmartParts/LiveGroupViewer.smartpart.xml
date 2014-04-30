@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<SmartPartMapping xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="b2585bc1-2096-48c5-9fac-48234041bb6d">
+  <SmartPartId>LiveGroupViewer</SmartPartId>
+  <ReferencedModelId>00000000-0000-0000-0000-000000000000</ReferencedModelId>
+  <SmartPart>SmartParts\GroupBuilder\LiveGroupViewer.ascx</SmartPart>
+  <TargetWorkspace>MainContent</TargetWorkspace>
+  <ShowInMode>List</ShowInMode>
+  <Properties />
+  <AllowRoles />
+</SmartPartMapping>

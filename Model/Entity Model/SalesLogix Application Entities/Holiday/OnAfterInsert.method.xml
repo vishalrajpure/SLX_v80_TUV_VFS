@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="317121e5-66d9-475f-8e40-35f4e30d181f" lastModifiedUtc="2013-10-17T09:18:06.5177017Z" name="OnAfterInsert" methodType="CrudEvent" actionType="None" returnMode="None">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmEntityMethod" />
+  </ExtendedPropertiesCollection>
+  <parameter />
+  <preExecuteTargets />
+  <methodTargets>
+    <methodTarget id="ab6460ac-4f26-4259-b1c3-7b163df2f1ed" lastModifiedUtc="2013-11-20T02:25:45.5401147Z" targetType="Sage.Platform.Orm.DefaultCRUDEventHandler, Sage.Platform" targetMethod="OnAfterInsert" active="false">
+      <ExtendedPropertiesCollection>
+        <extendee type="Sage.Platform.Orm.Entities.OrmMethodTarget" />
+      </ExtendedPropertiesCollection>
+    </methodTarget>
+    <methodTarget xsi:type="OrmMethodTargetSnippet" id="39f409cd-1414-43e7-ae03-ec4716da5aa0" lastModifiedUtc="2013-11-20T02:26:03.3567727Z" targetType="Sage.BusinessRules.CodeSnippets.HolidayBusinessRules, Sage.SnippetLibrary.CSharp" targetMethod="SetSeccode_OnAfterInsertStep" active="true" codeSnippetId="1dca7c59-183d-455c-acea-53c84058a978">
+      <ExtendedPropertiesCollection>
+        <extendee type="Sage.Platform.Orm.Entities.OrmMethodTargetSnippet" />
+      </ExtendedPropertiesCollection>
+    </methodTarget>
+  </methodTargets>
+  <postExecuteTargets />
+  <postFlushTargets />
+</method>

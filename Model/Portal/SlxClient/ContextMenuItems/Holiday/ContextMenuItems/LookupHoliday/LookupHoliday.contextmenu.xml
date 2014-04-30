@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MenuDropDownItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="5e79b56a-5351-4ce0-8bb8-81badc004f5c">
+  <ItemId>LookupHoliday</ItemId>
+  <NavUrl>javascript:Sage.Utility.Groups.showMainLookupFor('Holiday','Holiday.aspx');</NavUrl>
+  <LargeImageUrl />
+  <SmallImageUrl />
+  <ContextMenuId />
+  <Target />
+  <AppliedSecurity />
+</MenuDropDownItem>

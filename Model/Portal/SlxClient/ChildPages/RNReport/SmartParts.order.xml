@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="e3fa32cc-e650-4843-b9be-81a3824d669b">LiveGroupViewer.smartpart.xml</Item>
+  <Item Id="a2430744-5aa7-47d2-b794-d3366213beca">RNReportDetails.smartpart.xml</Item>
+  <Item Id="873d3231-ae31-4cfe-96d7-b105beef1018">RNReportItem.smartpart.xml</Item>
+  <Item Id="b9c98f05-84d2-4675-bde0-1a075c967485">RNReportStage.smartpart.xml</Item>
+  <Item Id="3a042f1c-296a-432d-a001-70c3fe37ef1a">AddEditRNStage.smartpart.xml</Item>
+  <Item Id="a2174854-a323-4b4e-8bce-0101a753c37e">AddEditRNReportItem.smartpart.xml</Item>
+  <Item Id="31da4b6a-14d4-44ec-9ab3-d2cbc962f593">AttachmentList.smartpart.xml</Item>
+  <Item Id="ecf100e5-c022-4480-9232-575db6879e16">RNInspector.smartpart.xml</Item>
+  <Item Id="9cfb17a5-6dc2-4c77-a834-4d450938aadb">Distribution.smartpart.xml</Item>
+  <Item Id="b0cce4aa-849d-411b-b34e-6324220bbfe8">RNVisitReports.smartpart.xml</Item>
+  <Item Id="b457e22c-49ef-4f88-813b-08071b39ab00">AddEditDistribution.smartpart.xml</Item>
+  <Item Id="eaccf6d9-3bad-4974-89c5-effa3ea2df24">RNVisitReportDetails.smartpart.xml</Item>
+</ModelItems>

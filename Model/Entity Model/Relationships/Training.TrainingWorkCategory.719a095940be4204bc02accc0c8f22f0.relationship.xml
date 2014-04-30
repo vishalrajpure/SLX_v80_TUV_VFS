@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="719a0959-40be-4204-bc02-accc0c8f22f0" lastModifiedUtc="2013-10-11T10:07:17.9830251Z" parentEntityId="95ebc6f7-0e03-4a1a-aff6-8590c870ac90" childEntityId="b6cd5cc7-611a-473e-9a05-cef44c620fda">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmRelationship" />
+  </ExtendedPropertiesCollection>
+  <parentProperty id="714d8d8d-2c6d-4375-90f4-9b5cb906cf38" lastModifiedUtc="2013-10-11T10:07:17.6554245Z" name="TrainingWorkCategories" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </parentProperty>
+  <childProperty id="c2ccdaf5-c2e7-4fd4-b912-8c072a1234a7" lastModifiedUtc="2013-10-11T10:07:17.6554245Z" name="Training" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </childProperty>
+  <column>
+    <OrmRelationshipColumn id="c1cf5ef7-6c58-432a-8448-557d82638c52" parentPropertyId="1beae5f5-9b97-4854-be8a-800c69b85ec1" childPropertyId="6009e076-9c71-4fdd-bd1d-911ecdc13f13" ordinal="0" />
+  </column>
+</relationship>

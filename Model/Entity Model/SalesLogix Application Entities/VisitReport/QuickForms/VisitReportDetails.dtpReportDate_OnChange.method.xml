@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="OrmOtherMethod" id="68c7af3e-d219-4805-b5f6-ce5e5f432fe6" lastModifiedUtc="2013-12-07T00:21:51.1204656Z" name="dtpReportDate_OnChange" methodType="Other" actionType="None" returnMode="None" isInstance="false" containerName="VisitReportDetails">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmOtherMethod" />
+  </ExtendedPropertiesCollection>
+  <parameter>
+    <OrmEntityMethodParam id="832d0c7e-0954-4def-9817-25f1a1a757e2" paramName="form" sequence="0" paramType="IVisitReportDetails" />
+    <OrmEntityMethodParam id="668ca5d2-e4b1-47d6-ba98-f1673a840090" paramName="args" sequence="0" paramType="EventArgs" />
+  </parameter>
+  <preExecuteTargets />
+  <methodTargets />
+  <postExecuteTargets />
+  <postFlushTargets />
+</method>

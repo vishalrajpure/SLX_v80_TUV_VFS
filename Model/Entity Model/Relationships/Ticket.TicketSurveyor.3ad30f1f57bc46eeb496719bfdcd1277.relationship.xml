@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="3ad30f1f-57bc-46ee-b496-719bfdcd1277" lastModifiedUtc="2013-11-16T19:21:27.7750004Z" parentEntityId="e7a70408-03cb-4667-890b-39de33fb739b" childEntityId="cd6c5da5-4d04-45bf-ad07-e5ca7a48e400">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmRelationship" />
+  </ExtendedPropertiesCollection>
+  <parentProperty id="a6e0bb00-a813-4c50-8bdb-dd432cb1551e" lastModifiedUtc="2013-11-16T19:21:23.5257363Z" name="TicketSurveyors" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </parentProperty>
+  <childProperty id="289c9c26-60b4-45e6-b3a2-ec486f9db13a" lastModifiedUtc="2013-11-16T19:21:23.5257363Z" name="Ticket" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </childProperty>
+  <column>
+    <OrmRelationshipColumn id="7538c72e-7afc-4868-8a83-5516f97bac99" parentPropertyId="8c393d4a-767b-4d56-aa25-09b7e8b26978" childPropertyId="d78d3146-6a1f-4b9b-ad4e-aa48f8777117" ordinal="0" />
+  </column>
+</relationship>

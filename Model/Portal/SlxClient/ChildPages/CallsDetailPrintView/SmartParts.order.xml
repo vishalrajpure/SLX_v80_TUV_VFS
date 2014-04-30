@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="7e6ed9c4-37b9-4c62-b114-3951edea12c4">CallsDetails.smartpart.xml</Item>
+  <Item Id="ddb2631d-f6f4-4af2-af7e-0d4b462ed1c5">ExtendedDetails.smartpart.xml</Item>
+  <Item Id="4e2e0112-dda6-422f-85e1-25f99c42c004">CallsActivities.smartpart.xml</Item>
+  <Item Id="4b0d312b-6300-4aac-ad59-566ed3ed4c9a">CallsComments.smartpart.xml</Item>
+  <Item Id="19e51694-62b9-4482-aa46-f866918e55cf">CalendarActivities.smartpart.xml</Item>
+  <Item Id="d236ec07-dc1c-4dbd-9bc8-eb48ce481530">CallsDefects.smartpart.xml</Item>
+  <Item Id="587cda19-627d-4454-9291-7e0258663618">CallsHistory.smartpart.xml</Item>
+  <Item Id="a8e40a0e-bf42-4f08-9408-9d2b8d1e1049">CallsReturns.smartpart.xml</Item>
+</ModelItems>

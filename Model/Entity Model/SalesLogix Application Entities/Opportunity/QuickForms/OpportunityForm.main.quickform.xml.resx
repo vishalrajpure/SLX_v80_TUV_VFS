@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="QFSDataGrid.183dd21a-2759-4bb1-bd09-57ec275ff2e2.ColumnHeading" xml:space="preserve">
+    <value>Family</value>
+  </data>
+  <data name="QFSDataGrid.fce5f38c-c0b0-4559-8bfa-74888dab9db0.ColumnHeading" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="QFSDataGrid.75e29ef7-7ffc-4c3c-bf60-94c8d702b7bc.ColumnHeading" xml:space="preserve">
+    <value>Price</value>
+  </data>
+  <data name="QFSDataGrid.be6a22ce-24dc-4884-98e3-4dad421f2ce0.ColumnHeading" xml:space="preserve">
+    <value>Category</value>
+  </data>
+  <data name="QFSDataGrid.cc92b05b-4f41-4542-ae94-c2f9dfd7e8a5.ColumnHeading" xml:space="preserve">
+    <value>Type</value>
+  </data>
+  <data name="QFSDataGrid.37bce9ee-9d95-4670-85b9-1bf9405c2b61.ColumnHeading" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="QFSDataGrid.cc9852f4-2061-4fe3-a807-b53509e0b50b.ColumnHeading" xml:space="preserve">
+    <value>Man Days</value>
+  </data>
+  <data name="QFSDataGrid.857efb0c-8640-4e67-b66b-53eb01e1a323.ColumnHeading" xml:space="preserve">
+    <value>Inspection Type</value>
+  </data>
+  <data name="QFSDataGrid.4c2b8cef-6b56-4e98-9ebf-e2b6f4fdebc7.ColumnHeading" xml:space="preserve">
+    <value>Total Price</value>
+  </data>
+  <data name="QFSDataGrid.bd8baafd-a04b-45be-bce4-bd78b3ab982f.ColumnHeading" xml:space="preserve">
+    <value>Price</value>
+  </data>
+  <data name="QFSDataGrid.41128d6f-7163-479f-a0b3-7bcb2c75c0c1.ColumnHeading" xml:space="preserve">
+    <value>Quantity</value>
+  </data>
+  <data name="c3ee0d5f-e894-411b-b8b4-0f8b2d6a9227.DialogTitleOverride" xml:space="preserve">
+    <value>Add Product</value>
+  </data>
+  <data name="QFSDataGrid.7dac827d-71c5-43fc-b500-f85e9dc26bd0.ColumnHeading" xml:space="preserve">
+    <value>InspectionType</value>
+  </data>
+  <data name="QFSDataGrid.6cfb76b5-8df9-40e8-89e6-bcc4b34014e9.ColumnHeading" xml:space="preserve">
+    <value>aaa</value>
+  </data>
+  <data name="QFSDataGrid.Save.ToolTip" xml:space="preserve">
+    <value>Save</value>
+  </data>
+  <data name="QFSDataGrid.Delete.ToolTip" xml:space="preserve">
+    <value>Delete</value>
+  </data>
+  <data name="QFSDataGrid.dc8aeb06-5bcc-4ad2-ba0c-d860d6f6f8dd.ColumnHeading" xml:space="preserve">
+    <value>Edit</value>
+  </data>
+  <data name="QFSDataGrid_AddRelationTool.LookupProperties.Criticality.PropertyHeader" xml:space="preserve">
+    <value>Criticality</value>
+  </data>
+  <data name="QFSDataGrid_AddRelationTool.LookupProperties.Family.PropertyHeader" xml:space="preserve">
+    <value>Family</value>
+  </data>
+  <data name="QFSDataGrid_AddRelationTool.LookupProperties.Name.PropertyHeader" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="QFSDataGrid_AddRelationTool.LookupProperties.Price.PropertyHeader" xml:space="preserve">
+    <value>Price</value>
+  </data>
+  <data name="QFSDataGrid.Add.ToolTip" xml:space="preserve">
+    <value>Add</value>
+  </data>
+</root>

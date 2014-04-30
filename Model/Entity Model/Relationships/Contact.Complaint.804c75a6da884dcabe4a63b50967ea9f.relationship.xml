@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="804c75a6-da88-4dca-be4a-63b50967ea9f" lastModifiedUtc="2013-11-16T23:48:21.78605Z" parentEntityId="750a7f26-3604-467b-94fe-249370231df4" childEntityId="3667fc88-5d02-4e16-8af3-691556168f3e">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmRelationship" />
+  </ExtendedPropertiesCollection>
+  <parentProperty id="6c282414-dbce-4958-bb4c-9087075b8788" lastModifiedUtc="2013-11-16T23:42:03.181908Z" name="Complaints" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </parentProperty>
+  <childProperty id="49b4b933-0209-46e1-907a-fc60dd7f70e6" lastModifiedUtc="2013-11-16T23:42:03.1975081Z" name="Contact" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </childProperty>
+  <column>
+    <OrmRelationshipColumn id="f3dcff3d-ffee-46af-9353-896483a9f05b" parentPropertyId="67fe9234-a814-4d79-a813-01046c1ae19d" childPropertyId="a67e450c-6850-4234-82c4-7a4cc0ac4843" ordinal="0" />
+  </column>
+</relationship>

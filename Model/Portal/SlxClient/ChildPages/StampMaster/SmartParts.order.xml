@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="2a79e15d-d01b-45be-a1ec-8da473944d02">LiveGroupViewer.smartpart.xml</Item>
+  <Item Id="0551aee7-406b-42a9-a6a1-727a42f5b2e5">StampMaster.smartpart.xml</Item>
+  <Item Id="25276bc7-afba-4b1f-b5b7-9dd2bb2b45ac">StampTransaction.smartpart.xml</Item>
+  <Item Id="fa3070a6-9afa-4765-8a89-2f68b613a420">AddEditStampTransaction.smartpart.xml</Item>
+  <Item Id="6b8c6b3d-79db-4e99-be17-6f003f74d33c">AddEditStampTransactionOutward.smartpart.xml</Item>
+  <Item Id="f22302cd-a7d4-4b7b-8b19-0e5e68a13381">AddEditStampTransactionReturn.smartpart.xml</Item>
+  <Item Id="5990b97d-e3a0-429a-8335-1cbc2b0a6d42">AddStampImage.smartpart.xml</Item>
+  <Item Id="f042235d-7421-4336-b2de-962184577374">AddUsers.smartpart.xml</Item>
+</ModelItems>

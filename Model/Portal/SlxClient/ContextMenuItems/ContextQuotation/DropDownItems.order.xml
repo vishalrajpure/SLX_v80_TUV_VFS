@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="61a5cba0-cef1-40e2-b381-046988225b6c">QuotationItem1.contextmenu.xml</Item>
+  <Item Id="d719f18a-0739-44ed-b25f-2213c6ae0f36">QuotationItem2.contextmenu.xml</Item>
+  <Item Id="3689765e-ff23-46ab-b8e5-c4fbf6511ec2">QuotationItem3.contextmenu.xml</Item>
+</ModelItems>

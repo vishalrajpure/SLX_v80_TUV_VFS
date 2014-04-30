@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MenuDropDownItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="90d068dc-1bcf-4fc9-89c0-38835b6d82ac">
+  <ItemId>LookupSurveyorItem</ItemId>
+  <NavUrl>javascript:Sage.Utility.Groups.showMainLookupFor('Surveyor','Surveyor.aspx');</NavUrl>
+  <LargeImageUrl />
+  <SmallImageUrl />
+  <ContextMenuId />
+  <Target />
+  <AppliedSecurity />
+</MenuDropDownItem>

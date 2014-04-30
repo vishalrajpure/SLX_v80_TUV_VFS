@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="b3cec2d0-7a76-44c2-9383-ddaebf07f59c">CallsDetails.smartpart.xml</Item>
+  <Item Id="feb4da70-f854-4269-a197-b5b1cacb3561">CallsComments.smartpart.xml</Item>
+  <Item Id="4a02ffd3-5580-4b73-b211-6aca828d7008">ActivityList.smartpart.xml</Item>
+  <Item Id="0b54fe72-8975-48f7-b241-fc53f9ac84ab">CallsActivities.smartpart.xml</Item>
+  <Item Id="bb1fc14a-0b85-4ecb-93f7-c4d87103ad85">AttachmentList.smartpart.xml</Item>
+  <Item Id="2d2f22a4-c8bd-4ac1-bcf8-8766676e9671">AccountServiceInfo.smartpart.xml</Item>
+  <Item Id="c6d3cef3-9f8b-4c7f-a0b5-f9b95f2cb4c9">SendTicketEmail.smartpart.xml</Item>
+  <Item Id="7e4bcde8-0fe5-4cfb-a592-97d5cf43f2f0">SpeedSearch.smartpart.xml</Item>
+  <Item Id="c08885f3-c3f5-40ee-b12d-fdf6a7ede3d9">CallsActivityParts.smartpart.xml</Item>
+  <Item Id="86c63be2-aa3b-4b6a-b309-90ca16548459">LiveGroupViewer.smartpart.xml</Item>
+  <Item Id="fd40068b-89a4-4c80-a3f1-233554cc3399">CallsTimeline.smartpart.xml</Item>
+  <Item Id="378d214a-f192-4df7-b582-e879c6daed4d">CallsInspectors.smartpart.xml</Item>
+  <Item Id="1d206ad9-89d6-4061-9975-ab2c90cb36e6">AddEditCallsInspectors.smartpart.xml</Item>
+  <Item Id="6c0a4acc-d016-4319-a6d9-0b1d6c1137b2">TicketProducts.smartpart.xml</Item>
+  <Item Id="461cd231-079d-4acc-95cc-4e1028cb133e">AddEditProduct.smartpart.xml</Item>
+  <Item Id="45c33732-2197-4249-9f7c-b1faff3898cf">CallVisitReport.smartpart.xml</Item>
+  <Item Id="051f2166-4164-4dff-8502-09a894c8ed74">VisitReportDetails.smartpart.xml</Item>
+  <Item Id="ef940267-77ee-444b-a230-e8b425490d6a">RNReportDetails.smartpart.xml</Item>
+  <Item Id="8b429f6f-65ea-4ff4-bb97-d497019e3480">CallRNReports.smartpart.xml</Item>
+</ModelItems>

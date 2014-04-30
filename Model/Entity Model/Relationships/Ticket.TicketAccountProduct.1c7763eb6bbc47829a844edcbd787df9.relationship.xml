@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<relationship xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="1c7763eb-6bbc-4782-9a84-4edcbd787df9" lastModifiedUtc="2013-11-29T01:42:55.7439133Z" parentEntityId="e7a70408-03cb-4667-890b-39de33fb739b" childEntityId="56bc8e84-d46b-4bcc-b743-f62fea8c09fd" cascadeOption="SaveUpdateDelete">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmRelationship" />
+  </ExtendedPropertiesCollection>
+  <parentProperty id="fd6aaeda-21a3-4180-8b5c-9937f069f6a5" lastModifiedUtc="2013-11-29T01:42:55.7439133Z" name="AccountProducts" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="07370ef3-ad24-409f-86a8-ff2db5ee6d69">
+      <BinaryDataType>
+        <Length>8000</Length>
+      </BinaryDataType>
+    </SystemDataType>
+  </parentProperty>
+  <childProperty id="db2936fc-6e7f-486d-9c68-503d3a372132" lastModifiedUtc="2013-11-28T19:24:17.7100256Z" name="Ticket" audited="false">
+    <ExtendedPropertiesCollection>
+      <extendee type="Sage.Platform.Orm.Entities.OrmRelationProperty">
+        <extender guid="ae60621d-9d91-3d9a-b9fb-eb6c8be12131">
+          <OrmEntityPropertySDataExtension generate="true" />
+        </extender>
+      </extendee>
+    </ExtendedPropertiesCollection>
+    <SystemDataType guid="2f770d03-c93c-4605-8ae8-7cdae04830d7">
+      <RelationshipDataType />
+    </SystemDataType>
+  </childProperty>
+  <column>
+    <OrmRelationshipColumn id="b4cafa37-0c65-4b91-b4dd-1e7313a00a17" parentPropertyId="8c393d4a-767b-4d56-aa25-09b7e8b26978" childPropertyId="b44b28d4-12b5-4239-b7f0-85a3c1feb562" ordinal="0" />
+  </column>
+</relationship>

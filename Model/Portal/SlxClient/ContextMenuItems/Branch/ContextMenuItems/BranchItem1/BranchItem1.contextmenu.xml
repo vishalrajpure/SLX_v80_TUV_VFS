@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<MenuDropDownItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="f9c6915b-3f09-4734-8a18-b0af0b743d84">
+  <ItemId>BranchItem1</ItemId>
+  <NavUrl>javascript:Sage.Utility.Groups.showMainLookupFor('Branch','Branch.aspx');</NavUrl>
+  <LargeImageUrl />
+  <SmallImageUrl />
+  <ContextMenuId />
+  <Target />
+  <AppliedSecurity />
+</MenuDropDownItem>

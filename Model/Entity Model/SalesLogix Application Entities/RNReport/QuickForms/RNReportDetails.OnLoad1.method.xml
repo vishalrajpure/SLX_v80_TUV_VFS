@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="OrmOtherMethod" id="b7387ed5-6038-4cc1-927b-a9f2c24e5c3c" lastModifiedUtc="2013-12-18T18:22:59.1199787Z" name="OnLoad1" methodType="Other" actionType="None" returnMode="None" isInstance="false" containerName="RNReportDetails">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmOtherMethod" />
+  </ExtendedPropertiesCollection>
+  <parameter>
+    <OrmEntityMethodParam id="9fceba4c-2f54-40eb-b31f-0ae36461f775" paramName="form" sequence="0" paramType="IRNReportDetails" />
+    <OrmEntityMethodParam id="eaf65303-42ee-480a-bc65-318589b86b34" paramName="args" sequence="0" paramType="EventArgs" />
+  </parameter>
+  <preExecuteTargets />
+  <methodTargets />
+  <postExecuteTargets />
+  <postFlushTargets />
+</method>

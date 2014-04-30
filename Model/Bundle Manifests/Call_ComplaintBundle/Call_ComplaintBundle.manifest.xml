@@ -1,0 +1,790 @@
+<?xml version="1.0"?>
+<BundleManifest id="52e221df-abf4-4599-951f-32c1b308176f">
+  <bundleProperties>
+    <name>Call_ComplaintBundle</name>
+    <description><![CDATA[]]></description>
+    <address><![CDATA[]]></address>
+    <company />
+    <copyright><![CDATA[]]></copyright>
+    <majorVersion>0</majorVersion>
+    <minorVersion>0</minorVersion>
+    <revision>0</revision>
+    <build>1</build>
+    <autoIncrement>false</autoIncrement>
+    <installDate>0001-01-01T00:00:00</installDate>
+    <installPassword />
+    <formatVersion>8.0.0.8479</formatVersion>
+  </bundleProperties>
+  <bundleItemHierarchy>
+    <bundleItem modelId="af988c91-97c8-4527-b072-e021c9e2cb1a" itemTypeName="Sage.Platform.BundleModel.BundleManifestItem, Sage.Platform.BundleModel">
+      <BundleManifestItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ItemId>52e221df-abf4-4599-951f-32c1b308176f</ItemId>
+        <Url>\</Url>
+        <BundleItemType>Container</BundleItemType>
+        <Caption>Call_ComplaintBundle</Caption>
+      </BundleManifestItem>
+      <children>
+        <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.EntityModelContext, Sage.Platform">
+          <EntityModelContext xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+            <ItemId>entitymodel</ItemId>
+            <Url>\::Entity Model</Url>
+            <BundleItemType>Container</BundleItemType>
+            <Caption>Entity Model</Caption>
+          </EntityModelContext>
+          <children>
+            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PackagesContext, Sage.Platform">
+              <PackagesContext xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                <ItemId>entitymodel\packages</ItemId>
+                <Url>\::Entity Model::Packages</Url>
+                <BundleItemType>Container</BundleItemType>
+                <Caption>Packages</Caption>
+              </PackagesContext>
+              <children>
+                <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PackageBundleItem, Sage.Platform">
+                  <PackageBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                    <ItemId>7ddc7cbe-e71d-483a-8599-6c5c483ee050</ItemId>
+                    <Url>\Entity Model\SalesLogix Application Entities\SalesLogix Application Entities.T.package.xml</Url>
+                    <BundleItemType>Context</BundleItemType>
+                    <Caption>SalesLogix Application Entities</Caption>
+                  </PackageBundleItem>
+                  <children>
+                    <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.EntityBundleItem, Sage.Platform">
+                      <EntityBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                        <ItemId>3667fc88-5d02-4e16-8af3-691556168f3e</ItemId>
+                        <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml</Url>
+                        <BundleItemType>Context</BundleItemType>
+                        <Caption>Complaint</Caption>
+                      </EntityBundleItem>
+                      <children>
+                        <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.EntitySubFolderContext, Sage.Platform">
+                          <EntitySubFolderContext xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                            <ItemId>3667fc88-5d02-4e16-8af3-691556168f3eproperties</ItemId>
+                            <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties</Url>
+                            <BundleItemType>Container</BundleItemType>
+                            <Caption>Properties</Caption>
+                            <ParentUrl>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml</ParentUrl>
+                            <CaptionKey>properties</CaptionKey>
+                          </EntitySubFolderContext>
+                          <children>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>02a2fd9f-7abc-4821-9a1d-e6c74b4fabd4</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::ComplaintId</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>ComplaintId</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>52fdefa6-64e4-4397-9f3c-ccc903d40a59</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::CreateUser</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>CreateUser</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>40d27a30-b2c4-428a-b2d9-65fbf982fb65</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::CreateDate</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>CreateDate</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>9d06e3c2-0ce7-4655-b374-583d9c598b65</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::ModifyUser</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>ModifyUser</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>ac209e16-4825-4de3-9293-b37f4eb1e383</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::ModifyDate</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>ModifyDate</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>a7f074f4-ce31-4892-ba55-c948f86a4513</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::AccountID</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>AccountID</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>a67e450c-6850-4234-82c4-7a4cc0ac4843</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::ContactID</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>ContactID</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>0aa04689-4b52-4342-b358-bd980d2144c9</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::SalesOrderID</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>SalesOrderID</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>b602671c-0506-4671-9723-b5f137a3c835</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::ContractID</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>ContractID</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>da0932f4-b2cb-4b2d-beb0-cc6ee35d7b2e</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::Category</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>Category</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>2db6ea68-6658-4fd0-987e-081b3da61798</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::SubCategory</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>SubCategory</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>fc157c81-8426-472a-bdfe-a554f955954d</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::OriginatingBranch</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>OriginatingBranch</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>ceaefae8-3886-4be9-8491-ce4acec6cd6b</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::ExecutingBranch</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>ExecutingBranch</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>ccffb28d-0711-4689-a700-53ffe3524e30</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::Description</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>Description</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>e68fa2da-f50d-4609-83a8-2ba5c51a1b1f</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::SurveyorID</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>SurveyorID</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>197d1d1e-37c7-49da-868e-11394b557985</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::ComplaintNumber</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>ComplaintNumber</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>81190083-7963-4a14-bc30-84e33868b0d3</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::ComplaintDate</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>ComplaintDate</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>a75ada50-88a1-49d0-ac2b-dc10a63cb223</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::ResponseDate</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>ResponseDate</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>8408488d-e756-447d-88ec-0bd203758453</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::ActionDate</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>ActionDate</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>0158c1db-a652-42aa-bb48-ee89ae2a4251</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::Status</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>Status</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>9dc84e7d-01a6-4cb4-8c2b-78a5514e78aa</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::Response</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>Response</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>6c99417d-b05b-45b6-baa7-8808a1437dd2</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::CorrectionofNC</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>CorrectionofNC</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>7dc5b2a1-16a9-4784-9f70-16be5f95ee84</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::RootCause</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>RootCause</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>68c9158a-97a8-43f0-8620-5e331df2f709</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::CAtopreventRecurrence</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>CAtopreventRecurrence</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>8ba889a3-0b38-403c-882c-d79916a8ac64</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::EffectivenessofImplementationofCA</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>EffectivenessofImplementationofCA</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>5b49465b-7922-48c0-8785-76854aa54f5a</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::Assignedto</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>Assignedto</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>49024dac-0363-4fc0-aacf-3341c9bde1e5</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::SeccodeId</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>SeccodeId</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.PropertyBundleItem, Sage.Platform">
+                              <PropertyBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>764f3adc-bdf7-474f-90bf-77b00a43a50d</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Properties::EntityType</Url>
+                                <BundleItemType>Other</BundleItemType>
+                                <Caption>EntityType</Caption>
+                                <SerializationOptions>RecurseChildren</SerializationOptions>
+                                <InstallOptions>RecurseChildren</InstallOptions>
+                              </PropertyBundleItem>
+                            </bundleItem>
+                          </children>
+                        </bundleItem>
+                        <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.EntitySubFolderContext, Sage.Platform">
+                          <EntitySubFolderContext xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                            <ItemId>3667fc88-5d02-4e16-8af3-691556168f3efilters</ItemId>
+                            <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Filters</Url>
+                            <BundleItemType>Container</BundleItemType>
+                            <Caption>Filters</Caption>
+                            <ParentUrl>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml</ParentUrl>
+                            <CaptionKey>filters</CaptionKey>
+                          </EntitySubFolderContext>
+                          <children>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.FilterBundleItem, Sage.Platform">
+                              <FilterBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>f9ec21a1-e2d6-492c-b79a-46f76c28ac66</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Category.filter.xml</Url>
+                                <BundleItemType>ModelItem</BundleItemType>
+                                <Caption>Category</Caption>
+                              </FilterBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.FilterBundleItem, Sage.Platform">
+                              <FilterBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>25696331-c828-4551-8085-c14d901e71c0</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\Client.filter.xml</Url>
+                                <BundleItemType>ModelItem</BundleItemType>
+                                <Caption>Client</Caption>
+                              </FilterBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.FilterBundleItem, Sage.Platform">
+                              <FilterBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>bc10d993-ebcf-4e1c-bfca-e8f0793a7b89</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\SubJob.filter.xml</Url>
+                                <BundleItemType>ModelItem</BundleItemType>
+                                <Caption>SubJob</Caption>
+                              </FilterBundleItem>
+                            </bundleItem>
+                          </children>
+                        </bundleItem>
+                        <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.EntitySubFolderContext, Sage.Platform">
+                          <EntitySubFolderContext xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                            <ItemId>3667fc88-5d02-4e16-8af3-691556168f3equickforms</ItemId>
+                            <Url>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml::Forms</Url>
+                            <BundleItemType>Container</BundleItemType>
+                            <Caption>Forms</Caption>
+                            <ParentUrl>\Entity Model\SalesLogix Application Entities\Complaint\Complaint.COMPLAINT.entity.xml</ParentUrl>
+                            <CaptionKey>quickforms</CaptionKey>
+                          </EntitySubFolderContext>
+                          <children>
+                            <bundleItem modelId="b2741b79-02a2-4f4c-81cd-c204f82cf41c" itemTypeName="Sage.Platform.QuickForms.BundleSupport.QuickFormBundleItem, Sage.Platform.QuickForms">
+                              <QuickFormBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>d5917760-c924-4bbc-9a58-95c45fc253aa</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\QuickForms\InsertComplaint.main.quickform.xml</Url>
+                                <BundleItemType>ModelItem</BundleItemType>
+                                <Caption>InsertComplaint</Caption>
+                              </QuickFormBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="b2741b79-02a2-4f4c-81cd-c204f82cf41c" itemTypeName="Sage.Platform.QuickForms.BundleSupport.QuickFormBundleItem, Sage.Platform.QuickForms">
+                              <QuickFormBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>a2a32dbe-1e22-4f0b-912a-7d6e26168006</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\QuickForms\ComplaintDetails.main.quickform.xml</Url>
+                                <BundleItemType>ModelItem</BundleItemType>
+                                <Caption>ComplaintDetails</Caption>
+                              </QuickFormBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="b2741b79-02a2-4f4c-81cd-c204f82cf41c" itemTypeName="Sage.Platform.QuickForms.BundleSupport.QuickFormBundleItem, Sage.Platform.QuickForms">
+                              <QuickFormBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>924ae0c9-a1c7-4a11-8052-ef37abf075d7</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Complaint\QuickForms\ComplaintActivity.main.quickform.xml</Url>
+                                <BundleItemType>ModelItem</BundleItemType>
+                                <Caption>ComplaintActivity</Caption>
+                              </QuickFormBundleItem>
+                            </bundleItem>
+                          </children>
+                        </bundleItem>
+                      </children>
+                    </bundleItem>
+                    <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.EntityBundleItem, Sage.Platform">
+                      <EntityBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                        <ItemId>e7a70408-03cb-4667-890b-39de33fb739b</ItemId>
+                        <Url>\Entity Model\SalesLogix Application Entities\Ticket\Ticket.TICKET.entity.xml</Url>
+                        <BundleItemType>Context</BundleItemType>
+                        <Caption>Ticket</Caption>
+                      </EntityBundleItem>
+                      <children>
+                        <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.EntitySubFolderContext, Sage.Platform">
+                          <EntitySubFolderContext xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                            <ItemId>e7a70408-03cb-4667-890b-39de33fb739bquickforms</ItemId>
+                            <Url>\Entity Model\SalesLogix Application Entities\Ticket\Ticket.TICKET.entity.xml::Forms</Url>
+                            <BundleItemType>Container</BundleItemType>
+                            <Caption>Forms</Caption>
+                            <ParentUrl>\Entity Model\SalesLogix Application Entities\Ticket\Ticket.TICKET.entity.xml</ParentUrl>
+                            <CaptionKey>quickforms</CaptionKey>
+                          </EntitySubFolderContext>
+                          <children>
+                            <bundleItem modelId="b2741b79-02a2-4f4c-81cd-c204f82cf41c" itemTypeName="Sage.Platform.QuickForms.BundleSupport.QuickFormBundleItem, Sage.Platform.QuickForms">
+                              <QuickFormBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>e643817c-d38b-472b-99af-6fc62a63370c</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Ticket\QuickForms\InsertTicket.main.quickform.xml</Url>
+                                <BundleItemType>ModelItem</BundleItemType>
+                                <Caption>InsertTicket</Caption>
+                              </QuickFormBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="b2741b79-02a2-4f4c-81cd-c204f82cf41c" itemTypeName="Sage.Platform.QuickForms.BundleSupport.QuickFormBundleItem, Sage.Platform.QuickForms">
+                              <QuickFormBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>7ec9cadd-9a7b-45a7-816e-7c0e6e8c5df0</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Ticket\QuickForms\TicketSurveyors.main.quickform.xml</Url>
+                                <BundleItemType>ModelItem</BundleItemType>
+                                <Caption>TicketSurveyors</Caption>
+                              </QuickFormBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="b2741b79-02a2-4f4c-81cd-c204f82cf41c" itemTypeName="Sage.Platform.QuickForms.BundleSupport.QuickFormBundleItem, Sage.Platform.QuickForms">
+                              <QuickFormBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>1781379d-f1d5-43ea-abb0-01d5000f19a3</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Ticket\QuickForms\TicketDetails.main.quickform.xml</Url>
+                                <BundleItemType>ModelItem</BundleItemType>
+                                <Caption>TicketDetails</Caption>
+                              </QuickFormBundleItem>
+                            </bundleItem>
+                          </children>
+                        </bundleItem>
+                      </children>
+                    </bundleItem>
+                    <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.EntityBundleItem, Sage.Platform">
+                      <EntityBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                        <ItemId>263c74af-dcdb-42d6-b717-71db7000854a</ItemId>
+                        <Url>\Entity Model\SalesLogix Application Entities\Surveyor\Surveyor.SURVEYOR.entity.xml</Url>
+                        <BundleItemType>Context</BundleItemType>
+                        <Caption>Surveyor</Caption>
+                      </EntityBundleItem>
+                      <children>
+                        <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.EntitySubFolderContext, Sage.Platform">
+                          <EntitySubFolderContext xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                            <ItemId>263c74af-dcdb-42d6-b717-71db7000854aquickforms</ItemId>
+                            <Url>\Entity Model\SalesLogix Application Entities\Surveyor\Surveyor.SURVEYOR.entity.xml::Forms</Url>
+                            <BundleItemType>Container</BundleItemType>
+                            <Caption>Forms</Caption>
+                            <ParentUrl>\Entity Model\SalesLogix Application Entities\Surveyor\Surveyor.SURVEYOR.entity.xml</ParentUrl>
+                            <CaptionKey>quickforms</CaptionKey>
+                          </EntitySubFolderContext>
+                          <children>
+                            <bundleItem modelId="b2741b79-02a2-4f4c-81cd-c204f82cf41c" itemTypeName="Sage.Platform.QuickForms.BundleSupport.QuickFormBundleItem, Sage.Platform.QuickForms">
+                              <QuickFormBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>79b2a7ff-9737-4dcf-b58b-66d809bd6909</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\Surveyor\QuickForms\SurveyorTickets.main.quickform.xml</Url>
+                                <BundleItemType>ModelItem</BundleItemType>
+                                <Caption>SurveyorTickets</Caption>
+                              </QuickFormBundleItem>
+                            </bundleItem>
+                          </children>
+                        </bundleItem>
+                      </children>
+                    </bundleItem>
+                    <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.EntityBundleItem, Sage.Platform">
+                      <EntityBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                        <ItemId>cd6c5da5-4d04-45bf-ad07-e5ca7a48e400</ItemId>
+                        <Url>\Entity Model\SalesLogix Application Entities\TicketSurveyor\TicketSurveyor.TICKETSURVEYOR.entity.xml</Url>
+                        <BundleItemType>ModelItem</BundleItemType>
+                        <Caption>TicketSurveyor</Caption>
+                      </EntityBundleItem>
+                      <children>
+                        <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.EntitySubFolderContext, Sage.Platform">
+                          <EntitySubFolderContext xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                            <ItemId>cd6c5da5-4d04-45bf-ad07-e5ca7a48e400quickforms</ItemId>
+                            <Url>\Entity Model\SalesLogix Application Entities\TicketSurveyor\TicketSurveyor.TICKETSURVEYOR.entity.xml::Forms</Url>
+                            <BundleItemType>Container</BundleItemType>
+                            <Caption>Forms</Caption>
+                            <ParentUrl>\Entity Model\SalesLogix Application Entities\TicketSurveyor\TicketSurveyor.TICKETSURVEYOR.entity.xml</ParentUrl>
+                            <CaptionKey>quickforms</CaptionKey>
+                          </EntitySubFolderContext>
+                          <children>
+                            <bundleItem modelId="b2741b79-02a2-4f4c-81cd-c204f82cf41c" itemTypeName="Sage.Platform.QuickForms.BundleSupport.QuickFormBundleItem, Sage.Platform.QuickForms">
+                              <QuickFormBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>4fe1a9c3-e5db-4b56-b6e7-bef1065955a6</ItemId>
+                                <Url>\Entity Model\SalesLogix Application Entities\TicketSurveyor\QuickForms\AddEditTicketSurveyors.main.quickform.xml</Url>
+                                <BundleItemType>ModelItem</BundleItemType>
+                                <Caption>AddEditTicketSurveyors</Caption>
+                              </QuickFormBundleItem>
+                            </bundleItem>
+                          </children>
+                        </bundleItem>
+                      </children>
+                    </bundleItem>
+                  </children>
+                </bundleItem>
+              </children>
+            </bundleItem>
+            <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.RelationshipsContext, Sage.Platform">
+              <RelationshipsContext xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                <ItemId>entitymodel\relationships</ItemId>
+                <Url>\::Entity Model::Relationships</Url>
+                <BundleItemType>Container</BundleItemType>
+                <Caption>Relationships</Caption>
+              </RelationshipsContext>
+              <children>
+                <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.RelationshipBundleItem, Sage.Platform">
+                  <RelationshipBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                    <ItemId>12d91cf6-6031-4e0a-bfa0-e1f8b39d861d</ItemId>
+                    <Url>\Entity Model\Relationships\Complaint.Activity.12d91cf660314e0abfa0e1f8b39d861d.relationship.xml</Url>
+                    <BundleItemType>ModelItem</BundleItemType>
+                    <Caption>Complaint.Activities 1:M Activity.Complaint</Caption>
+                  </RelationshipBundleItem>
+                </bundleItem>
+                <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.RelationshipBundleItem, Sage.Platform">
+                  <RelationshipBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                    <ItemId>7c1c454a-3d08-4540-8401-1b148af88ad4</ItemId>
+                    <Url>\Entity Model\Relationships\Account.Complaint.7c1c454a3d08454084011b148af88ad4.relationship.xml</Url>
+                    <BundleItemType>ModelItem</BundleItemType>
+                    <Caption>Account.Complaints 1:M Complaint.Account</Caption>
+                  </RelationshipBundleItem>
+                </bundleItem>
+                <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.RelationshipBundleItem, Sage.Platform">
+                  <RelationshipBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                    <ItemId>804c75a6-da88-4dca-be4a-63b50967ea9f</ItemId>
+                    <Url>\Entity Model\Relationships\Contact.Complaint.804c75a6da884dcabe4a63b50967ea9f.relationship.xml</Url>
+                    <BundleItemType>ModelItem</BundleItemType>
+                    <Caption>Contact.Complaints 1:M Complaint.Contact</Caption>
+                  </RelationshipBundleItem>
+                </bundleItem>
+                <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.RelationshipBundleItem, Sage.Platform">
+                  <RelationshipBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                    <ItemId>0b95285f-6283-4521-865a-1e2ca9d35e1d</ItemId>
+                    <Url>\Entity Model\Relationships\Owner.Complaint.0b95285f62834521865a1e2ca9d35e1d.relationship.xml</Url>
+                    <BundleItemType>ModelItem</BundleItemType>
+                    <Caption>Owner.Complaints 1:M Complaint.Owner</Caption>
+                  </RelationshipBundleItem>
+                </bundleItem>
+                <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.RelationshipBundleItem, Sage.Platform">
+                  <RelationshipBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                    <ItemId>f13e4e1a-cc61-4435-85fc-9066b9c7dbfd</ItemId>
+                    <Url>\Entity Model\Relationships\SalesOrder.Complaint.f13e4e1acc61443585fc9066b9c7dbfd.relationship.xml</Url>
+                    <BundleItemType>ModelItem</BundleItemType>
+                    <Caption>Job No.Complaints 1:M Complaint.SalesOrder</Caption>
+                  </RelationshipBundleItem>
+                </bundleItem>
+                <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.RelationshipBundleItem, Sage.Platform">
+                  <RelationshipBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                    <ItemId>f70c85c4-652f-47ed-a3f6-ce9e3423cc93</ItemId>
+                    <Url>\Entity Model\Relationships\Surveyor.Complaint.f70c85c4652f47eda3f6ce9e3423cc93.relationship.xml</Url>
+                    <BundleItemType>ModelItem</BundleItemType>
+                    <Caption>Inspectors.Complaints 1:M Complaint.Surveyor</Caption>
+                  </RelationshipBundleItem>
+                </bundleItem>
+                <bundleItem modelId="a7bdd2d9-93b0-499d-9fd4-c3f7a5f94e28" itemTypeName="Sage.Platform.Orm.Entities.BundleSupport.RelationshipBundleItem, Sage.Platform">
+                  <RelationshipBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                    <ItemId>14e7f4d3-760d-43fe-9f60-731dfac4a179</ItemId>
+                    <Url>\Entity Model\Relationships\Contract.Complaint.14e7f4d3760d43fe9f60731dfac4a179.relationship.xml</Url>
+                    <BundleItemType>ModelItem</BundleItemType>
+                    <Caption>Sub Job.Complaints 1:M Complaint.Contract</Caption>
+                  </RelationshipBundleItem>
+                </bundleItem>
+              </children>
+            </bundleItem>
+          </children>
+        </bundleItem>
+        <bundleItem modelId="73d4e7d0-a7fa-40ae-8b45-1ad7ed954154" itemTypeName="Sage.Platform.WebPortal.Design.BundleSupport.ManagerBundleItem, Sage.Platform.WebPortal.Design">
+          <ManagerBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+            <ItemId>\Portal</ItemId>
+            <Url>\Portal</Url>
+            <BundleItemType>Container</BundleItemType>
+            <Caption>Portals</Caption>
+          </ManagerBundleItem>
+          <children>
+            <bundleItem modelId="73d4e7d0-a7fa-40ae-8b45-1ad7ed954154" itemTypeName="Sage.Platform.WebPortal.Design.BundleSupport.ModelItemBundleItem, Sage.Platform.WebPortal.Design">
+              <ModelItemBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                <ItemId>861ac5fe-b571-4015-a55d-bf63e400e1e7</ItemId>
+                <Url>\Portal\SlxClient\SlxClient.cabapp.ptl.xml</Url>
+                <BundleItemType>Context</BundleItemType>
+                <Caption>Sage SalesLogix</Caption>
+              </ModelItemBundleItem>
+              <children>
+                <bundleItem modelId="73d4e7d0-a7fa-40ae-8b45-1ad7ed954154" itemTypeName="Sage.Platform.WebPortal.Design.BundleSupport.ContainerBundleItem, Sage.Platform.WebPortal.Design">
+                  <ContainerBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                    <ItemId>\Portal\SlxClient\SlxClient.cabapp.ptl.xml\Pages</ItemId>
+                    <Url>\Portal\SlxClient\SlxClient.cabapp.ptl.xml\Pages</Url>
+                    <BundleItemType>Container</BundleItemType>
+                    <Caption>Pages</Caption>
+                  </ContainerBundleItem>
+                  <children>
+                    <bundleItem modelId="73d4e7d0-a7fa-40ae-8b45-1ad7ed954154" itemTypeName="Sage.Platform.WebPortal.Design.BundleSupport.ModelItemBundleItem, Sage.Platform.WebPortal.Design">
+                      <ModelItemBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                        <ItemId>fe2d96e8-2c80-48a8-9ae8-957bb730004a</ItemId>
+                        <Url>\Portal\SlxClient\ChildPages\Complaint\Complaint.page.xml</Url>
+                        <BundleItemType>ModelItem</BundleItemType>
+                        <Caption>Complaint details</Caption>
+                        <InstallOrderOptions>
+                          <BeforeAll>false</BeforeAll>
+                          <InstallAfter>5d645f23-27aa-4cc2-ba1b-edfece5f225f</InstallAfter>
+                        </InstallOrderOptions>
+                      </ModelItemBundleItem>
+                      <children>
+                        <bundleItem modelId="73d4e7d0-a7fa-40ae-8b45-1ad7ed954154" itemTypeName="Sage.Platform.WebPortal.Design.BundleSupport.ContainerBundleItem, Sage.Platform.WebPortal.Design">
+                          <ContainerBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                            <ItemId>\Portal\SlxClient\ChildPages\Complaint\Complaint.page.xml\Pages</ItemId>
+                            <Url>\Portal\SlxClient\ChildPages\Complaint\Complaint.page.xml\Pages</Url>
+                            <BundleItemType>Container</BundleItemType>
+                            <Caption>Pages</Caption>
+                          </ContainerBundleItem>
+                        </bundleItem>
+                        <bundleItem modelId="73d4e7d0-a7fa-40ae-8b45-1ad7ed954154" itemTypeName="Sage.Platform.WebPortal.Design.BundleSupport.ContainerBundleItem, Sage.Platform.WebPortal.Design">
+                          <ContainerBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                            <ItemId>\Portal\SlxClient\ChildPages\Complaint\Complaint.page.xml\SmartParts</ItemId>
+                            <Url>\Portal\SlxClient\ChildPages\Complaint\Complaint.page.xml\SmartParts</Url>
+                            <BundleItemType>Container</BundleItemType>
+                            <Caption>SmartParts</Caption>
+                          </ContainerBundleItem>
+                          <children>
+                            <bundleItem modelId="73d4e7d0-a7fa-40ae-8b45-1ad7ed954154" itemTypeName="Sage.Platform.WebPortal.Design.BundleSupport.ModelItemBundleItem, Sage.Platform.WebPortal.Design">
+                              <ModelItemBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>130aea2b-a81b-4e42-93bd-1f21ac621a18</ItemId>
+                                <Url>\Portal\SlxClient\ChildPages\Complaint\SmartParts\LiveGroupViewer.smartpart.xml</Url>
+                                <BundleItemType>ModelItem</BundleItemType>
+                                <Caption>LiveGroupViewer (Custom)</Caption>
+                                <InstallOrderOptions>
+                                  <BeforeAll>true</BeforeAll>
+                                  <InstallAfter>00000000-0000-0000-0000-000000000000</InstallAfter>
+                                </InstallOrderOptions>
+                              </ModelItemBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="73d4e7d0-a7fa-40ae-8b45-1ad7ed954154" itemTypeName="Sage.Platform.WebPortal.Design.BundleSupport.ModelItemBundleItem, Sage.Platform.WebPortal.Design">
+                              <ModelItemBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>ea438bb8-94a9-4281-8026-fbb1391d141f</ItemId>
+                                <Url>\Portal\SlxClient\ChildPages\Complaint\SmartParts\ComplaintDetails.smartpart.xml</Url>
+                                <BundleItemType>ModelItem</BundleItemType>
+                                <Caption>ComplaintDetails</Caption>
+                                <InstallOrderOptions>
+                                  <BeforeAll>false</BeforeAll>
+                                  <InstallAfter>130aea2b-a81b-4e42-93bd-1f21ac621a18</InstallAfter>
+                                </InstallOrderOptions>
+                              </ModelItemBundleItem>
+                            </bundleItem>
+                            <bundleItem modelId="73d4e7d0-a7fa-40ae-8b45-1ad7ed954154" itemTypeName="Sage.Platform.WebPortal.Design.BundleSupport.ModelItemBundleItem, Sage.Platform.WebPortal.Design">
+                              <ModelItemBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>809f5fd0-719a-46e7-b590-701513fff8dc</ItemId>
+                                <Url>\Portal\SlxClient\ChildPages\Complaint\SmartParts\ComplaintActivity.smartpart.xml</Url>
+                                <BundleItemType>ModelItem</BundleItemType>
+                                <Caption>ComplaintActivity</Caption>
+                                <InstallOrderOptions>
+                                  <BeforeAll>false</BeforeAll>
+                                  <InstallAfter>ea438bb8-94a9-4281-8026-fbb1391d141f</InstallAfter>
+                                </InstallOrderOptions>
+                              </ModelItemBundleItem>
+                            </bundleItem>
+                          </children>
+                        </bundleItem>
+                        <bundleItem modelId="73d4e7d0-a7fa-40ae-8b45-1ad7ed954154" itemTypeName="Sage.Platform.WebPortal.Design.BundleSupport.ContainerBundleItem, Sage.Platform.WebPortal.Design">
+                          <ContainerBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                            <ItemId>\Portal\SlxClient\ChildPages\Complaint\Complaint.page.xml\Modules</ItemId>
+                            <Url>\Portal\SlxClient\ChildPages\Complaint\Complaint.page.xml\Modules</Url>
+                            <BundleItemType>Container</BundleItemType>
+                            <Caption>Modules</Caption>
+                          </ContainerBundleItem>
+                          <children>
+                            <bundleItem modelId="73d4e7d0-a7fa-40ae-8b45-1ad7ed954154" itemTypeName="Sage.Platform.WebPortal.Design.BundleSupport.ModelItemBundleItem, Sage.Platform.WebPortal.Design">
+                              <ModelItemBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>2b8fdfa8-54d5-4c10-a714-bf000ddb48bb</ItemId>
+                                <Url>\Portal\SlxClient\ChildPages\Complaint\Modules\Sage.SalesLogix.Client.GroupBuilder.Modules.GroupViewerModule.module.xml</Url>
+                                <BundleItemType>ModelItem</BundleItemType>
+                                <Caption>Sage.SalesLogix.Client.GroupBuilder.Modules.GroupViewerModule</Caption>
+                                <InstallOrderOptions>
+                                  <BeforeAll>true</BeforeAll>
+                                  <InstallAfter>00000000-0000-0000-0000-000000000000</InstallAfter>
+                                </InstallOrderOptions>
+                              </ModelItemBundleItem>
+                            </bundleItem>
+                          </children>
+                        </bundleItem>
+                      </children>
+                    </bundleItem>
+                    <bundleItem modelId="73d4e7d0-a7fa-40ae-8b45-1ad7ed954154" itemTypeName="Sage.Platform.WebPortal.Design.BundleSupport.ModelItemBundleItem, Sage.Platform.WebPortal.Design">
+                      <ModelItemBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                        <ItemId>b945cd83-58bf-4f0f-b739-d7002f4ef02f</ItemId>
+                        <Url>\Portal\SlxClient\ChildPages\InsertComplaint\InsertComplaint.page.xml</Url>
+                        <BundleItemType>ModelItem</BundleItemType>
+                        <Caption>Insert Complaint</Caption>
+                        <InstallOrderOptions>
+                          <BeforeAll>false</BeforeAll>
+                          <InstallAfter>d0d75b09-9866-468a-87af-9f0d3eae9e5e</InstallAfter>
+                        </InstallOrderOptions>
+                      </ModelItemBundleItem>
+                      <children>
+                        <bundleItem modelId="73d4e7d0-a7fa-40ae-8b45-1ad7ed954154" itemTypeName="Sage.Platform.WebPortal.Design.BundleSupport.ContainerBundleItem, Sage.Platform.WebPortal.Design">
+                          <ContainerBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                            <ItemId>\Portal\SlxClient\ChildPages\InsertComplaint\InsertComplaint.page.xml\Pages</ItemId>
+                            <Url>\Portal\SlxClient\ChildPages\InsertComplaint\InsertComplaint.page.xml\Pages</Url>
+                            <BundleItemType>Container</BundleItemType>
+                            <Caption>Pages</Caption>
+                          </ContainerBundleItem>
+                        </bundleItem>
+                        <bundleItem modelId="73d4e7d0-a7fa-40ae-8b45-1ad7ed954154" itemTypeName="Sage.Platform.WebPortal.Design.BundleSupport.ContainerBundleItem, Sage.Platform.WebPortal.Design">
+                          <ContainerBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                            <ItemId>\Portal\SlxClient\ChildPages\InsertComplaint\InsertComplaint.page.xml\SmartParts</ItemId>
+                            <Url>\Portal\SlxClient\ChildPages\InsertComplaint\InsertComplaint.page.xml\SmartParts</Url>
+                            <BundleItemType>Container</BundleItemType>
+                            <Caption>SmartParts</Caption>
+                          </ContainerBundleItem>
+                          <children>
+                            <bundleItem modelId="73d4e7d0-a7fa-40ae-8b45-1ad7ed954154" itemTypeName="Sage.Platform.WebPortal.Design.BundleSupport.ModelItemBundleItem, Sage.Platform.WebPortal.Design">
+                              <ModelItemBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                                <ItemId>8b200ec6-7a45-4d85-8568-5cdbfe87af22</ItemId>
+                                <Url>\Portal\SlxClient\ChildPages\InsertComplaint\SmartParts\InsertComplaint.smartpart.xml</Url>
+                                <BundleItemType>ModelItem</BundleItemType>
+                                <Caption>InsertComplaint</Caption>
+                                <InstallOrderOptions>
+                                  <BeforeAll>true</BeforeAll>
+                                  <InstallAfter>00000000-0000-0000-0000-000000000000</InstallAfter>
+                                </InstallOrderOptions>
+                              </ModelItemBundleItem>
+                            </bundleItem>
+                          </children>
+                        </bundleItem>
+                        <bundleItem modelId="73d4e7d0-a7fa-40ae-8b45-1ad7ed954154" itemTypeName="Sage.Platform.WebPortal.Design.BundleSupport.ContainerBundleItem, Sage.Platform.WebPortal.Design">
+                          <ContainerBundleItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                            <ItemId>\Portal\SlxClient\ChildPages\InsertComplaint\InsertComplaint.page.xml\Modules</ItemId>
+                            <Url>\Portal\SlxClient\ChildPages\InsertComplaint\InsertComplaint.page.xml\Modules</Url>
+                            <BundleItemType>Container</BundleItemType>
+                            <Caption>Modules</Caption>
+                          </ContainerBundleItem>
+                        </bundleItem>
+                      </children>
+                    </bundleItem>
+                  </children>
+                </bundleItem>
+              </children>
+            </bundleItem>
+          </children>
+        </bundleItem>
+      </children>
+    </bundleItem>
+  </bundleItemHierarchy>
+  <bundleActionHierarchy>
+    <bundleItem modelId="af988c91-97c8-4527-b072-e021c9e2cb1a" itemTypeName="Sage.Platform.BundleModel.RootBundleAction, Sage.Platform.BundleModel">
+      <RootBundleAction xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+        <ItemId>\Actions</ItemId>
+        <Url>\Actions</Url>
+        <BundleItemType>Container</BundleItemType>
+        <Caption>Bundle Actions</Caption>
+      </RootBundleAction>
+    </bundleItem>
+  </bundleActionHierarchy>
+  <itemsToDelete />
+  <globalResources />
+</BundleManifest>

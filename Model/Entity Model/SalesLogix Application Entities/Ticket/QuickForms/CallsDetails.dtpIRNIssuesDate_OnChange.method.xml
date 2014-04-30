@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<method xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:type="OrmOtherMethod" id="bf1875d7-53c7-4e33-bad3-196474389bf1" lastModifiedUtc="2013-12-22T06:41:49.6848254Z" name="dtpIRNIssuesDate_OnChange" methodType="Other" actionType="None" returnMode="None" isInstance="false" containerName="CallsDetails">
+  <extendedMetaData />
+  <ExtendedPropertiesCollection>
+    <extendee type="Sage.Platform.Orm.Entities.OrmOtherMethod" />
+  </ExtendedPropertiesCollection>
+  <parameter>
+    <OrmEntityMethodParam id="78fffe35-fabd-43c9-9dbe-91fa7a9f79d1" paramName="form" sequence="0" paramType="ICallsDetails" />
+    <OrmEntityMethodParam id="b724aa60-405c-478d-8ad8-e7aaf55c57ab" paramName="args" sequence="0" paramType="EventArgs" />
+  </parameter>
+  <preExecuteTargets />
+  <methodTargets />
+  <postExecuteTargets />
+  <postFlushTargets />
+</method>

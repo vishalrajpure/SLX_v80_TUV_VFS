@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ModelItems xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Item Id="3a0be30c-7100-4aa8-9150-78b020a82d9b">LiveGroupViewer.smartpart.xml</Item>
+  <Item Id="23e2a78a-68ca-4e86-8347-5dfbc1fb53c7">Surveyor.smartpart.xml</Item>
+  <Item Id="e0c25edb-2abf-4936-a0de-e630f31ab235">SurveyorCompetency.smartpart.xml</Item>
+  <Item Id="0d233c91-06a6-421d-8367-18596e3fd891">AddEditSurveyorCompetency.smartpart.xml</Item>
+  <Item Id="13148a8b-27ee-4f6c-be71-d2169891e803">branchgrid.smartpart.xml</Item>
+  <Item Id="f79688bb-6b83-4f2c-9e1d-a477cc2b595a">AttachmentList.smartpart.xml</Item>
+  <Item Id="defbb5c0-dcd0-4424-9a5e-4a7542b45b47">StampSurveyor.smartpart.xml</Item>
+  <Item Id="d850573d-fd35-4e08-9dcc-d17b17feb96c">SurveyorChangePassword.smartpart.xml</Item>
+  <Item Id="a1a05885-496c-474b-9a28-e3afa4324455">SurveyorTickets.smartpart.xml</Item>
+</ModelItems>
